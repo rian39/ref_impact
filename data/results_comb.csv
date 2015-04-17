@@ -1,0 +1,1908 @@
+,institution,uoa,case_count,4*,3*,2*,1*,staff,intensity
+0,,"aeronautical, mechanical, chemical and manufacturing engineering",18,,,,,,
+1,,"art and design: history, practice and theory",11,,,,,,
+2,,earth systems and environmental sciences,8,,,,,,
+3,,computer science and informatics,6,,,,,,
+4,,business and management studies,5,,,,,,
+5,,"geography, environmental studies and archaeology",5,,,,,,
+6,,"agriculture, veterinary and food science",4,,,,,,
+7,,"music, drama, dance and performing arts",4,,,,,,
+8,,law,4,,,,,,
+9,,"electrical and electronic engineering, metallurgy and materials",3,,,,,,
+10,,social work and social policy,3,,,,,,
+11,,"allied health professions, dentistry, nursing and pharmacy",2,,,,,,
+12,,english language and literature,2,,,,,,
+13,,sociology,2,,,,,,
+14,,"communication, cultural and media studies, library and information management",2,,,,,,
+15,,clinical medicine,2,,,,,,
+16,,politics and international studies,2,,,,,,
+17,,"sport and exercise sciences, leisure and tourism",2,,,,,,
+18,,mathematical sciences,2,,,,,,
+19,,modern languages and linguistics,1,,,,,,
+20,,"public health, health services and primary care",1,,,,,,
+21,aberystwyth and bangor universities biosciences environment and agriculture alliance,"agriculture, veterinary and food science",10,,,,,,
+22,aberystwyth university,"geography, environmental studies and archaeology",5,42,58,0,0,38.93,8.784998715643463
+23,aberystwyth university,modern languages and linguistics,4,0,60,40,0,7.0,37.142857142857146
+24,aberystwyth university,modern languages and linguistics,4,0,50,10,40,12.0,17.5
+25,aberystwyth university,"music, drama, dance and performing arts",4,40,40,20,0,28.1,11.387900355871885
+26,aberystwyth university,politics and international studies,4,40,40,20,0,27.2,11.764705882352942
+27,aberystwyth university,law,3,26.7,50,23.3,0,16.5,18.38787878787879
+28,aberystwyth university,computer science and informatics,3,23.3,76.7,0,0,24.8,13.036290322580646
+29,aberystwyth university,business and management studies,3,26.7,46.6,13.4,13.3,16.6,17.2710843373494
+30,aberystwyth university,history,2,0,50,50,0,14.8,16.89189189189189
+31,aberystwyth university,"communication, cultural and media studies, library and information management",2,0,0,60,40,6.0,26.666666666666668
+32,aberystwyth university,physics,2,0,30,50,20,12.1,17.355371900826448
+33,aberystwyth university,"sport and exercise sciences, leisure and tourism",2,0,90,10,0,10.2,28.43137254901961
+34,aberystwyth university,"art and design: history, practice and theory",2,20,80,0,0,4.0,80.0
+35,aberystwyth university,english language and literature,2,0,80,20,0,13.6,20.58823529411765
+36,aberystwyth university,mathematical sciences,2,0,10,90,0,10.75,19.53488372093023
+37,anglia ruskin,law,2,,,,,,
+38,anglia ruskin university,"geography, environmental studies and archaeology",3,23.3,36.7,40,0,17.5,16.18857142857143
+39,anglia ruskin university,english language and literature,3,0,46.7,40,13.3,16.8,13.892857142857144
+40,anglia ruskin university,history,2,0,0,40,20,5.5,18.181818181818183
+41,anglia ruskin university,"communication, cultural and media studies, library and information management",2,0,40,60,0,8.7,27.586206896551726
+42,anglia ruskin university,business and management studies,2,10,70,20,0,14.2,20.422535211267608
+43,anglia ruskin university,education,2,0,0,50,50,5.2,28.846153846153847
+44,anglia ruskin university,"psychology, psychiatry and neuroscience",2,0,0,20,80,13.7,8.75912408759124
+45,anglia ruskin university,biological sciences,2,0,10,70,20,7.25,26.20689655172414
+46,anglia ruskin university,"music, drama, dance and performing arts",2,40,60,0,0,13.8,24.63768115942029
+47,anglia ruskin university,social work and social policy,2,0,0,80,20,14.31,12.578616352201257
+48,anglia ruskin university,"architecture, built environment and planning",2,0,0,50,50,8.0,18.75
+49,anglia ruskin university,"art and design: history, practice and theory",2,0,70,30,0,13.9,19.424460431654676
+50,anglia ruskin university,"allied health professions, dentistry, nursing and pharmacy",2,20,80,0,0,11.3,28.318584070796458
+51,anglia ruskin university,general engineering,2,0,70,30,0,8.0,33.75
+52,arts university bournemouth,"art and design: history, practice and theory",2,0,40,40,20,12.1,18.181818181818183
+53,aston university,business and management studies,6,26.7,73.3,0,0,46.3,7.056155507559396
+54,aston university,"allied health professions, dentistry, nursing and pharmacy",5,55.7,38.6,5.7,0,56.8,6.161971830985916
+55,aston university,modern languages and linguistics,3,60,13.3,26.7,0,18.5,18.016216216216215
+56,aston university,computer science and informatics,3,40,60,0,0,18.2,18.681318681318682
+57,aston university,general engineering,3,26.7,46.6,13.4,13.3,23.63,12.13288192975032
+58,aston university,area studies,2,30,50,20,0,12.0,25.833333333333332
+59,aston university,"electrical and electronic engineering, metallurgy and materials",2,26.7,73.3,0,0,24.0,13.612499999999999
+60,bangor university,business and management studies,4,10,70,20,0,28.75,10.08695652173913
+61,bangor university,"psychology, psychiatry and neuroscience",3,73.3,26.7,0,0,21.6,17.282407407407405
+62,bangor university,modern languages and linguistics,3,90,10,0,0,24.8,15.725806451612902
+63,bangor university,earth systems and environmental sciences,2,40,50,10,0,35.35,9.335219236209335
+64,bangor university,"music, drama, dance and performing arts",2,40,60,0,0,13.65,24.90842490842491
+65,bangor university,law,2,0,100,0,0,9.0,33.333333333333336
+66,bangor university,"allied health professions, dentistry, nursing and pharmacy",2,20,80,0,0,12.0,26.666666666666668
+67,bangor university,history,2,20,80,0,0,13.0,24.615384615384617
+68,bangor university,computer science and informatics,2,0,0,40,60,10.0,14.0
+69,bangor university,"electrical and electronic engineering, metallurgy and materials",2,0,20,80,0,12.6,17.460317460317462
+70,bangor university,english language and literature,2,20,70,10,0,13.6,22.794117647058822
+71,bangor university,chemistry,2,0,70,30,0,9.4,28.72340425531915
+72,bangor university and cardiff metropolitan university,"sport and exercise sciences, leisure and tourism",3,,,,,,
+73,bath spa university,english language and literature,3,0,73.3,26.7,0,21.05,12.9833729216152
+74,bath spa university,history,2,0,70,30,0,6.2,43.54838709677419
+75,bath spa university,"communication, cultural and media studies, library and information management",2,0,80,20,0,7.4,37.83783783783784
+76,bath spa university,education,2,0,40,60,0,13.2,18.181818181818183
+77,bath spa university,"music, drama, dance and performing arts",2,60,40,0,0,12.0,30.0
+78,bath spa university,"art and design: history, practice and theory",2,0,30,70,0,14.17,16.231474947071277
+79,birkbeck college,"psychology, psychiatry and neuroscience",4,100,0,0,0,28.35,14.109347442680775
+80,birkbeck university of london,history,5,,,,,,
+81,birkbeck university of london,law,4,,,,,,
+82,birkbeck university of london,modern languages and linguistics,4,,,,,,
+83,birkbeck university of london,business and management studies,4,,,,,,
+84,birkbeck university of london,sociology,4,,,,,,
+85,birkbeck university of london,english language and literature,4,,,,,,
+86,birkbeck university of london,economics and econometrics,4,,,,,,
+87,birkbeck university of london,computer science and informatics,3,,,,,,
+88,birkbeck university of london,"art and design: history, practice and theory",3,,,,,,
+89,birkbeck university of london,politics and international studies,2,,,,,,
+90,birkbeck university of london,philosophy,2,,,,,,
+91,birmingham city university,"art and design: history, practice and theory",4,50,50,0,0,32.13,10.893246187363834
+92,birmingham city university,"music, drama, dance and performing arts",3,40,60,0,0,17.27,19.687319050376377
+93,birmingham city university,"communication, cultural and media studies, library and information management",2,0,100,0,0,11.21,26.761819803746654
+94,birmingham city university,business and management studies,2,50,50,0,0,4.7,74.46808510638297
+95,birmingham city university,education,2,0,0,70,30,7.5,22.666666666666668
+96,birmingham city university,law,2,0,60,40,0,6.0,43.333333333333336
+97,birmingham city university,social work and social policy,2,0,90,10,0,7.2,40.27777777777778
+98,birmingham city university,"allied health professions, dentistry, nursing and pharmacy",2,20,80,0,0,12.1,26.446280991735538
+99,birmingham city university,computer science and informatics,2,40,20,0,0,7.4,29.72972972972973
+100,birmingham city university,"architecture, built environment and planning",2,0,50,50,0,4.0,62.5
+101,birmingham city university,english language and literature,2,40,60,0,0,12.4,27.419354838709676
+102,bishop grosseteste university,education,2,0,0,40,50,6.0,21.666666666666668
+103,bishop grosseteste university,history,2,-,-,-,-,3.0,0.0
+104,bishop grosseteste university,english language and literature,2,-,-,-,-,2.0,0.0
+105,bournemouth university,"communication, cultural and media studies, library and information management",3,63.3,23.4,13.3,0,24.8,14.112903225806452
+106,bournemouth university,"geography, environmental studies and archaeology",3,10,40,50,0,29.5,8.813559322033898
+107,bournemouth university,"allied health professions, dentistry, nursing and pharmacy",3,0,63.3,36.7,0,21.4,12.303738317757007
+108,bournemouth university,"psychology, psychiatry and neuroscience",2,0,20,40,40,13.0,13.846153846153847
+109,bournemouth university,business and management studies,2,63.3,36.7,0,0,20.5,17.721951219512196
+110,bournemouth university,"art and design: history, practice and theory",2,60,40,0,0,13.8,26.08695652173913
+111,bournemouth university,general engineering,2,0,73.3,26.7,0,24.8,11.020161290322578
+112,bournemouth university,"sport and exercise sciences, leisure and tourism",1,40,40,20,0,14.0,22.857142857142858
+113,brunel university,business and management studies,7,,,,,,
+114,brunel university,"aeronautical, mechanical, chemical and manufacturing engineering",7,,,,,,
+115,brunel university,general engineering,7,,,,,,
+116,brunel university,"allied health professions, dentistry, nursing and pharmacy",6,,,,,,
+117,brunel university,law,4,,,,,,
+118,brunel university,"sport and exercise sciences, leisure and tourism",4,,,,,,
+119,brunel university,computer science and informatics,4,,,,,,
+120,brunel university,economics and econometrics,4,,,,,,
+121,brunel university,english language and literature,3,,,,,,
+122,brunel university,social work and social policy,3,,,,,,
+123,brunel university,"psychology, psychiatry and neuroscience",3,,,,,,
+124,brunel university,"music, drama, dance and performing arts",3,,,,,,
+125,brunel university,"communication, cultural and media studies, library and information management",3,,,,,,
+126,brunel university,earth systems and environmental sciences,3,,,,,,
+127,brunel university,politics and international studies,3,,,,,,
+128,brunel university,sociology,2,,,,,,
+129,brunel university,anthropology and development studies,2,,,,,,
+130,brunel university,education,2,,,,,,
+131,brunel university,"art and design: history, practice and theory",2,,,,,,
+132,brunel university,"public health, health services and primary care",2,,,,,,
+133,brunel university,mathematical sciences,2,,,,,,
+134,buckinghamshire new university,"sport and exercise sciences, leisure and tourism",2,0,10,50,0,5.0,26.0
+135,buckinghamshire new university,business and management studies,2,-,-,-,-,2.33,0.0
+136,buckinghamshire new university,"allied health professions, dentistry, nursing and pharmacy",2,0,20,80,0,7.1,30.985915492957748
+137,buckinghamshire new university,"art and design: history, practice and theory",1,20,60,20,0,9.6,31.25
+138,bucks new university,"art and design: history, practice and theory",1,,,,,,
+139,cambridge university,history,1,,,,,,
+140,canterbury christ church university,education,3,0,63.3,36.7,0,21.6,12.189814814814811
+141,canterbury christ church university,history,2,0,50,50,0,14.0,17.857142857142858
+142,canterbury christ church university,"communication, cultural and media studies, library and information management",2,0,30,70,0,14.3,16.083916083916083
+143,canterbury christ church university,politics and international studies,2,0,0,80,20,14.5,12.413793103448276
+144,canterbury christ church university,"agriculture, veterinary and food science",2,0,0,70,30,12.5,13.6
+145,canterbury christ church university,"allied health professions, dentistry, nursing and pharmacy",2,0,90,10,0,13.9,20.863309352517984
+146,canterbury christ church university,"sport and exercise sciences, leisure and tourism",2,40,60,0,0,14.8,22.972972972972972
+147,canterbury christ church university,"music, drama, dance and performing arts",2,10,50,40,0,13.6,19.852941176470587
+148,canterbury christ church university,theology and religious studies,2,0,80,20,0,6.0,46.666666666666664
+149,canterbury christ church university,english language and literature,2,0,50,30,20,11.8,19.491525423728813
+150,cardiff metropolitan university,"allied health professions, dentistry, nursing and pharmacy",2,0,50,30,20,12.0,19.166666666666668
+151,cardiff university,business and management studies,8,50,50,0,0,72.6,4.820936639118457
+152,cardiff university,"psychology, psychiatry and neuroscience",8,90,0,10,0,69.33,5.481032741958749
+153,cardiff university,"allied health professions, dentistry, nursing and pharmacy",8,90,10,0,0,74.95,5.203468979319546
+154,cardiff university,clinical medicine,7,80,20,0,0,59.01,6.439586510760888
+155,cardiff university,"architecture, built environment and planning",6,20,80,0,0,27.4,11.678832116788321
+156,cardiff university,"architecture, built environment and planning",6,90,10,0,0,14.8,26.35135135135135
+157,cardiff university,biological sciences,5,60,40,0,0,54.7,6.581352833638025
+158,cardiff university,sociology,4,80,20,0,0,29.48,12.890094979647218
+159,cardiff university,mathematical sciences,3,26.7,73.3,0,0,24.05,13.584199584199583
+160,cardiff university,physics,3,63.3,36.7,0,0,19.5,18.630769230769232
+161,cardiff university,english language and literature,3,46.7,40,13.3,0,24.01,13.88588088296543
+162,cardiff university,"public health, health services and primary care",3,63.3,10,26.7,0,24.29,13.8575545491972
+163,cardiff university,law,3,80,20,0,0,22.0,17.272727272727273
+164,cardiff university,education,3,60,40,0,0,20.6,17.475728155339805
+165,cardiff university,"geography, environmental studies and archaeology",2,40,50,10,0,13.13,25.133282559025133
+166,cardiff university,politics and international studies,2,30,70,0,0,13.03,25.32617037605526
+167,cardiff university,history,2,30,70,0,0,14.4,22.916666666666668
+168,cardiff university,philosophy,2,70,30,0,0,10.0,37.0
+169,cardiff university,earth systems and environmental sciences,2,10,50,40,0,14.99,18.01200800533689
+170,cardiff university,"music, drama, dance and performing arts",2,30,70,0,0,13.2,25.0
+171,cardiff university,computer science and informatics,2,60,30,10,0,13.73,25.491624180626363
+172,cardiff university,modern languages and linguistics,2,100,0,0,0,14.8,27.027027027027025
+173,cardiff university,chemistry,2,50,50,0,0,23.0,15.217391304347826
+174,cardiff university,"communication, cultural and media studies, library and information management",2,100,0,0,0,13.4,29.850746268656717
+175,cardiff university school of engineering,general engineering,4,,,,,,
+176,cardiff university school of engineering,civil and construction engineering,2,,,,,,
+177,city university london,business and management studies,9,60,26.7,13.3,0,78.29,4.428407203985183
+178,city university london,"allied health professions, dentistry, nursing and pharmacy",8,55,45,0,0,67.6,5.2514792899408285
+179,city university london,general engineering,6,13.3,66.7,20,0,53.6,5.472014925373134
+180,city university london,"psychology, psychiatry and neuroscience",4,20,40,40,0,28.0,10.0
+181,city university london,computer science and informatics,4,40,50,10,0,32.0,10.3125
+182,city university london,law,3,0,73.3,26.7,0,20.5,13.33170731707317
+183,city university london,"communication, cultural and media studies, library and information management",3,53.3,46.7,0,0,24.6,14.361788617886178
+184,city university london,sociology,3,26.7,73.3,0,0,21.6,15.124999999999998
+185,city university london,mathematical sciences,3,40,40,20,0,16.05,19.937694704049843
+186,city university london,politics and international studies,2,0,80,20,0,13.2,21.212121212121215
+187,city university london,"music, drama, dance and performing arts",2,40,60,0,0,9.2,36.95652173913044
+188,city university london,economics and econometrics,2,20,30,10,0,13.7,13.868613138686133
+189,courtauld institute of art,"art and design: history, practice and theory",4,40,60,0,0,32.5,10.461538461538462
+190,coventry university,"art and design: history, practice and theory",4,70,30,0,0,34.45,10.74020319303338
+191,coventry university,politics and international studies,3,0,86.7,13.3,0,18.7,15.33155080213904
+192,coventry university,"allied health professions, dentistry, nursing and pharmacy",3,13.3,76.7,10,0,17.6,17.232954545454543
+193,coventry university,business and management studies,3,40,60,0,0,17.0,20.0
+194,coventry university,"psychology, psychiatry and neuroscience",2,60,40,0,0,14.0,25.714285714285715
+195,coventry university,earth systems and environmental sciences,2,0,70,30,0,10.4,25.96153846153846
+196,coventry university,general engineering,2,0,36.7,63.3,0,18.7,12.657754010695188
+197,coventry university,computer science and informatics,2,10,90,0,0,13.0,23.846153846153847
+198,coventry university,mathematical sciences,1,0,80,20,0,9.0,31.11111111111111
+199,de montfort university,"allied health professions, dentistry, nursing and pharmacy",4,40,30,30,0,31.4,9.872611464968154
+200,de montfort university,general engineering,2,0,36.7,50,13.3,24.7,9.044534412955468
+201,de montfort university,law,2,0,40,40,20,9.4,23.404255319148934
+202,de montfort university,social work and social policy,2,53.3,20,26.7,0,20.1,16.24875621890547
+203,de montfort university,"communication, cultural and media studies, library and information management",1,0,100,0,0,10.8,27.777777777777775
+204,de montfort university,"music, drama, dance and performing arts",1,10,90,0,0,13.0,23.846153846153847
+205,de montfort university,computer science and informatics,1,0,66.7,33.3,0,24.7,10.797570850202431
+206,de montfort university,business and management studies,1,50,23.3,26.7,0,21.7,14.898617511520735
+207,de montfort university,english language and literature,1,40,60,0,0,13.2,25.757575757575758
+208,durham,chemistry,1,,,,,,
+209,durham,anthropology and development studies,1,,,,,,
+210,durham university,"geography, environmental studies and archaeology",10,,,,,,
+211,durham university,business and management studies,5,,,,,,
+212,durham university,biological sciences,4,,,,,,
+213,durham university,general engineering,4,,,,,,
+214,durham university,chemistry,4,,,,,,
+215,durham university,earth systems and environmental sciences,4,,,,,,
+216,durham university,history,4,,,,,,
+217,durham university,modern languages and linguistics,4,,,,,,
+218,durham university,english language and literature,4,,,,,,
+219,durham university,social work and social policy,3,,,,,,
+220,durham university,"psychology, psychiatry and neuroscience",3,,,,,,
+221,durham university,philosophy,3,,,,,,
+222,durham university,politics and international studies,3,,,,,,
+223,durham university,theology and religious studies,3,,,,,,
+224,durham university,law,3,,,,,,
+225,durham university,"music, drama, dance and performing arts",2,,,,,,
+226,durham university,computer science and informatics,2,,,,,,
+227,durham university,anthropology and development studies,2,,,,,,
+228,durham university,classics,2,,,,,,
+229,durham university,education,2,,,,,,
+230,eastchem,chemistry,7,,,,,,
+231,edge hill university,social work and social policy,3,0,26.7,10,36.6,17.0,8.041176470588235
+232,edge hill university,"psychology, psychiatry and neuroscience",2,0,40,60,0,12.2,19.672131147540984
+233,edge hill university,"communication, cultural and media studies, library and information management",2,20,20,20,0,12.3,14.634146341463413
+234,edge hill university,history,2,20,40,40,0,6.8,41.1764705882353
+235,edge hill university,"geography, environmental studies and archaeology",2,0,40,10,50,9.0,21.11111111111111
+236,edge hill university,law,2,0,100,0,0,14.0,21.428571428571427
+237,edge hill university,"allied health professions, dentistry, nursing and pharmacy",2,20,60,20,0,11.1,27.027027027027028
+238,edge hill university,"sport and exercise sciences, leisure and tourism",2,40,20,40,0,14.0,21.428571428571427
+239,edge hill university,"music, drama, dance and performing arts",2,0,40,20,0,11.5,13.91304347826087
+240,edge hill university,computer science and informatics,2,0,10,50,0,5.0,26.0
+241,edge hill university,english language and literature,2,0,20,40,40,13.9,12.949640287769784
+242,edge hill university,education,2,40,20,40,0,11.7,25.641025641025642
+243,edinburgh napier university,"allied health professions, dentistry, nursing and pharmacy",3,0,26.7,73.3,0,22.2,10.211711711711711
+244,edinburgh napier university,earth systems and environmental sciences,2,20,80,0,0,6.0,53.333333333333336
+245,edinburgh napier university,business and management studies,2,10,30,60,0,10.4,24.038461538461537
+246,edinburgh napier university,"communication, cultural and media studies, library and information management",2,0,50,50,0,7.6,32.89473684210527
+247,edinburgh napier university,civil and construction engineering,2,0,40,20,0,14.0,11.428571428571429
+248,edinburgh napier university,computer science and informatics,2,0,90,10,0,10.7,27.10280373831776
+249,edinburgh napier university,"electrical and electronic engineering, metallurgy and materials",2,0,80,20,0,10.3,27.184466019417474
+250,edinburgh napier university,"architecture, built environment and planning",2,40,20,0,40,7.9,32.91139240506329
+251,edinburgh napier university,english language and literature,2,40,30,30,0,9.8,31.632653061224488
+252,edinburgh research partnership in engineering erpe,general engineering,17,,,,,,
+253,falmouth university,"music, drama, dance and performing arts",4,30,20,30,0,26.1,9.195402298850574
+254,falmouth university,"art and design: history, practice and theory",3,0,10,90,0,24.29,8.645533141210375
+255,glasgow caledonian university,"allied health professions, dentistry, nursing and pharmacy",5,48,52,0,0,44.3,7.855530474040632
+256,glasgow caledonian university,general engineering,3,0,13.3,86.7,0,21.0,10.157142857142858
+257,glasgow caledonian university,computer science and informatics,2,0,30,30,40,13.0,14.615384615384615
+258,glasgow caledonian university,history,1,0,80,20,0,6.2,45.16129032258064
+259,glasgow school of art,"art and design: history, practice and theory",6,30,50,20,0,52.8,5.871212121212121
+260,glynd r university,"communication, cultural and media studies, library and information management",2,,,,,,
+261,glynd r university,computer science and informatics,2,,,,,,
+262,glynd r university,"electrical and electronic engineering, metallurgy and materials",2,,,,,,
+263,glynd r university,"psychology, psychiatry and neuroscience",2,,,,,,
+264,goldsmiths,"psychology, psychiatry and neuroscience",1,,,,,,
+265,goldsmiths university of london,"music, drama, dance and performing arts",4,,,,,,
+266,goldsmiths university of london,"art and design: history, practice and theory",4,,,,,,
+267,goldsmiths university of london,sociology,4,,,,,,
+268,goldsmiths university of london,"communication, cultural and media studies, library and information management",3,,,,,,
+269,goldsmiths university of london,"psychology, psychiatry and neuroscience",3,,,,,,
+270,goldsmiths university of london,computer science and informatics,3,,,,,,
+271,goldsmiths university of london,english language and literature,3,,,,,,
+272,goldsmiths university of london,history,2,,,,,,
+273,goldsmiths university of london,anthropology and development studies,2,,,,,,
+274,goldsmiths university of london,politics and international studies,2,,,,,,
+275,goldsmiths university of london,social work and social policy,2,,,,,,
+276,goldsmiths university of london,education,2,,,,,,
+277,guildhall school of music drama,"music, drama, dance and performing arts",2,,,,,,
+278,harper adams university,"agriculture, veterinary and food science",3,26.7,23.3,50,0,17.0,16.276470588235295
+279,heriot watt university,chemistry,4,,,,,,
+280,heriot watt university,earth systems and environmental sciences,1,,,,,,
+281,heriot watt university,computer science and informatics,1,,,,,,
+282,heriot watt university,modern languages and linguistics,1,,,,,,
+283,heriotwatt university,business and management studies,5,,,,,,
+284,heriotwatt university,computer science and informatics,3,,,,,,
+285,heriotwatt university,earth systems and environmental sciences,2,,,,,,
+286,heriotwatt university,"agriculture, veterinary and food science",2,,,,,,
+287,heriotwatt university,"psychology, psychiatry and neuroscience",2,,,,,,
+288,heriotwatt university,modern languages and linguistics,1,,,,,,
+289,heriotwatt university,"art and design: history, practice and theory",1,,,,,,
+290,heythrop college,theology and religious studies,1,40,60,0,0,15.8,21.51898734177215
+291,heythrop college university of london,theology and religious studies,2,,,,,,
+292,imperial college london,clinical medicine,34,94.1,5.9,0,0,334.18,1.1793045664013404
+293,imperial college london,"aeronautical, mechanical, chemical and manufacturing engineering",18,75.6,20,2.2,2.2,172.8,2.135416666666666
+294,imperial college london,physics,12,47.7,43.1,9.2,0,117.49,2.8810962635117883
+295,imperial college london,biological sciences,11,53.6,39.1,7.3,0,99.55,3.4786539427423415
+296,imperial college london,"electrical and electronic engineering, metallurgy and materials",10,100,0,0,0,44.2,9.049773755656108
+297,imperial college london,"electrical and electronic engineering, metallurgy and materials",10,60,40,0,0,37.0,9.72972972972973
+298,imperial college london,mathematical sciences,9,56.4,40,3.6,0,100.31,3.5170969993021632
+299,imperial college london,business and management studies,7,22.9,71.4,5.7,0,57.95,5.473684210526315
+300,imperial college london,civil and construction engineering,7,65.7,34.3,0,0,56.6,6.46113074204947
+301,imperial college london,chemistry,6,46.7,53.3,0,0,54.9,6.31511839708561
+302,imperial college london,"public health, health services and primary care",6,83.3,16.7,0,0,54.6,7.020146520146519
+303,imperial college london,computer science and informatics,6,73.3,26.7,0,0,49.45,7.549039433771485
+304,imperial college london,"psychology, psychiatry and neuroscience",5,84,16,0,0,44.33,8.662305436498984
+305,imperial college london,general engineering,4,70,20,10,0,33.5,10.746268656716419
+306,institute of cancer research,clinical medicine,7,90,10,0,0,69.09,5.6448111159357355
+307,institute of cancer research,biological sciences,4,80,20,0,0,34.0,11.176470588235293
+308,institute of education,education,23,,,,,,
+309,institute of zoology,earth systems and environmental sciences,3,63.3,36.7,0,0,20.9,17.382775119617225
+310,institution of cancer research,clinical medicine,1,,,,,,
+311,keele university,"allied health professions, dentistry, nursing and pharmacy",5,76,24,0,0,43.98,8.549340609367896
+312,keele university,social work and social policy,4,20,60,20,0,30.1,9.966777408637872
+313,keele university,general engineering,4,20,50,30,0,34.45,8.41799709724238
+314,keele university,business and management studies,3,0,36.7,50,13.3,18.3,12.207650273224045
+315,keele university,law,3,53.3,10,36.7,0,18.0,17.58888888888889
+316,keele university,english language and literature,2,0,80,20,0,13.9,20.14388489208633
+317,keele university,philosophy,2,80,20,0,0,4.0,95.0
+318,keele university,politics and international studies,2,70,30,0,0,13.7,27.007299270072995
+319,keele university,earth systems and environmental sciences,2,0,80,20,0,10.2,27.450980392156865
+320,keele university,history,2,0,100,0,0,12.7,23.62204724409449
+321,keele university,physics,2,0,40,10,10,10.5,14.285714285714286
+322,keele university,computer science and informatics,2,0,40,40,20,5.0,44.0
+323,keele university,"music, drama, dance and performing arts",2,40,20,40,0,8.0,37.5
+324,keele university,biological sciences,2,40,20,40,0,12.4,24.193548387096772
+325,keele university,"psychology, psychiatry and neuroscience",2,40,20,40,0,14.5,20.689655172413794
+326,keele university,"public health, health services and primary care",2,90,10,0,0,9.2,42.39130434782609
+327,keele university,mathematical sciences,2,0,50,30,20,8.0,28.75
+328,kent,biological sciences,1,,,,,,
+329,king s college london,"psychology, psychiatry and neuroscience",24,,,,,,
+330,king s college london,"allied health professions, dentistry, nursing and pharmacy",20,,,,,,
+331,king s college london,clinical medicine,16,,,,,,
+332,king s college london,biological sciences,8,,,,,,
+333,king s college london,business and management studies,5,,,,,,
+334,king s college london,english language and literature,5,,,,,,
+335,king s college london,general engineering,5,,,,,,
+336,king s college london,education,5,,,,,,
+337,king s college london,politics and international studies,5,,,,,,
+338,king s college london,history,5,,,,,,
+339,king s college london,"music, drama, dance and performing arts",5,,,,,,
+340,king s college london,modern languages and linguistics,5,,,,,,
+341,king s college london,computer science and informatics,4,,,,,,
+342,king s college london,"communication, cultural and media studies, library and information management",4,,,,,,
+343,king s college london,"geography, environmental studies and archaeology",4,,,,,,
+344,king s college london,classics,4,,,,,,
+345,king s college london,theology and religious studies,4,,,,,,
+346,king s college london,law,4,,,,,,
+347,king s college london,physics,4,,,,,,
+348,king s college london,mathematical sciences,4,,,,,,
+349,king s college london,philosophy,3,,,,,,
+350,king s college london,"public health, health services and primary care",3,,,,,,
+351,king s college london,"sport and exercise sciences, leisure and tourism",2,,,,,,
+352,kingston university,business and management studies,3,23.3,63.4,13.3,0,24.9,12.449799196787149
+353,kingston university,"allied health professions, dentistry, nursing and pharmacy",3,0,76.7,23.3,0,17.22,16.068524970964
+354,kingston university,"art and design: history, practice and theory",3,10,36.7,53.3,0,23.5,10.92340425531915
+355,kingston university,english language and literature,3,100,0,0,0,22.6,17.699115044247787
+356,kingston university,"geography, environmental studies and archaeology",2,0,40,60,0,10.0,24.0
+357,kingston university,philosophy,2,30,30,40,0,6.2,46.774193548387096
+358,kingston university,"psychology, psychiatry and neuroscience",2,0,40,60,0,10.0,24.0
+359,kingston university,computer science and informatics,2,20,40,40,0,10.2,27.450980392156865
+360,kingston university,general engineering,2,0,30,50,20,14.0,15.0
+361,lancaster,history,1,,,,,,
+362,lancaster university,business and management studies,12,47.7,36.9,15.4,0,122.38,2.7153129596339274
+363,lancaster university,"allied health professions, dentistry, nursing and pharmacy",7,34.3,60,5.7,0,64.4,5.102484472049689
+364,lancaster university,english language and literature,6,66.7,33.3,0,0,52.97,6.922786482914858
+365,lancaster university,earth systems and environmental sciences,5,68,32,0,0,44.9,8.195991091314031
+366,lancaster university,law,4,20,80,0,0,29.8,10.738255033557047
+367,lancaster university,computer science and informatics,4,50,50,0,0,33.0,10.606060606060606
+368,lancaster university,"art and design: history, practice and theory",3,30,60,10,0,32.2,9.937888198757763
+369,lancaster university,theology and religious studies,3,86.7,13.3,0,0,22.33,17.31751007613077
+370,lancaster university,sociology,3,80,20,0,0,28.75,13.217391304347826
+371,lancaster university,mathematical sciences,3,76.7,23.3,0,0,24.9,15.128514056224903
+372,lancaster university,history,2,36.7,63.3,0,0,19.54,17.231320368474922
+373,lancaster university,physics,2,10,70,20,0,34.95,8.297567954220314
+374,lancaster university,chemistry,2,20,80,0,0,12.0,26.666666666666668
+375,lancaster university,general engineering,2,36.7,63.3,0,0,24.98,13.478783026421135
+376,lancaster university,"psychology, psychiatry and neuroscience",1,53.3,20,26.7,0,21.7,15.05069124423963
+377,leeds metropolitan university,"sport and exercise sciences, leisure and tourism",6,,,,,,
+378,leeds metropolitan university,"communication, cultural and media studies, library and information management",4,,,,,,
+379,leeds metropolitan university,"public health, health services and primary care",3,,,,,,
+380,leeds metropolitan university,"architecture, built environment and planning",3,,,,,,
+381,leeds metropolitan university,business and management studies,3,,,,,,
+382,leeds metropolitan university,computer science and informatics,2,,,,,,
+383,leeds metropolitan university,education,2,,,,,,
+384,leeds metropolitan university,"psychology, psychiatry and neuroscience",2,,,,,,
+385,leeds metropolitan university,social work and social policy,2,,,,,,
+386,leeds metropolitan university,"art and design: history, practice and theory",2,,,,,,
+387,leeds metropolitan university,"music, drama, dance and performing arts",1,,,,,,
+388,leeds metropolitan university school of film music and performing arts,"music, drama, dance and performing arts",1,,,,,,
+389,leeds trinity university,history,2,0,40,60,0,4.0,60.0
+390,leeds trinity university,"communication, cultural and media studies, library and information management",2,0,0,0,10,4.1,2.439024390243903
+391,leeds trinity university,"sport and exercise sciences, leisure and tourism",2,-,-,-,-,3.0,0.0
+392,leeds trinity university,theology and religious studies,2,0,40,20,40,3.5,57.142857142857146
+393,leeds trinity university,english language and literature,2,0,0,70,30,5.5,30.90909090909091
+394,liverpool hope university,"music, drama, dance and performing arts",4,10,90,0,0,7.75,40.0
+395,liverpool hope university,"music, drama, dance and performing arts",4,0,10,70,20,9.0,21.11111111111111
+396,liverpool hope university,history,2,0,50,50,0,10.6,23.58490566037736
+397,liverpool hope university,politics and international studies,2,0,0,70,30,7.0,24.285714285714285
+398,liverpool hope university,"geography, environmental studies and archaeology",2,0,0,0,80,4.2,19.047619047619047
+399,liverpool hope university,education,2,40,0,30,30,12.2,20.491803278688526
+400,liverpool hope university,theology and religious studies,2,0,70,30,0,14.9,18.120805369127517
+401,liverpool hope university,"psychology, psychiatry and neuroscience",2,0,0,100,0,10.8,18.51851851851852
+402,liverpool hope university,"sport and exercise sciences, leisure and tourism",2,0,0,30,70,8.6,15.116279069767442
+403,liverpool hope university,computer science and informatics,2,0,0,50,50,7.0,21.428571428571427
+404,liverpool hope university,social work and social policy,2,0,0,10,90,6.2,17.741935483870968
+405,liverpool hope university,english language and literature,2,0,0,40,60,14.2,9.859154929577466
+406,liverpool john moores university,"sport and exercise sciences, leisure and tourism",4,90,10,0,0,34.75,11.223021582733812
+407,liverpool john moores university,"allied health professions, dentistry, nursing and pharmacy",4,10,60,30,0,34.5,8.115942028985508
+408,liverpool john moores university,physics,3,40,46.7,13.3,0,22.71,14.385733157199473
+409,liverpool john moores university,"architecture, built environment and planning",3,0,73.3,26.7,0,17.2,15.889534883720929
+410,liverpool john moores university,history,2,0,60,40,0,7.0,37.142857142857146
+411,liverpool john moores university,anthropology and development studies,2,40,20,0,0,13.2,16.666666666666668
+412,liverpool john moores university,"communication, cultural and media studies, library and information management",2,20,70,10,0,13.0,23.846153846153847
+413,liverpool john moores university,law,2,0,100,0,0,7.0,42.857142857142854
+414,liverpool john moores university,"electrical and electronic engineering, metallurgy and materials",2,0,30,70,0,7.0,32.857142857142854
+415,liverpool john moores university,"art and design: history, practice and theory",2,0,70,30,0,8.6,31.395348837209305
+416,liverpool john moores university,education,2,0,40,60,0,12.8,18.75
+417,liverpool john moores university,general engineering,2,0,30,30,40,11.0,17.272727272727273
+418,liverpool john moores university,social work and social policy,2,20,80,0,0,8.0,40.0
+419,liverpool john moores university,english language and literature,2,50,30,20,0,13.4,24.62686567164179
+420,liverpool john moores university,"aeronautical, mechanical, chemical and manufacturing engineering",1,0,30,70,0,13.0,17.692307692307693
+421,london business school,business and management studies,11,46.4,31.8,10.9,3.6,98.83,3.1002731963978554
+422,london metropolitan university,education,2,40,60,0,0,3.8,89.47368421052632
+423,london metropolitan university,"communication, cultural and media studies, library and information management",2,20,30,10,0,7.3,26.027397260273972
+424,london metropolitan university,area studies,2,70,30,0,0,8.5,43.529411764705884
+425,london metropolitan university,social work and social policy,2,40,60,0,0,9.7,35.05154639175258
+426,london metropolitan university,business and management studies,2,10,30,60,0,4.0,62.5
+427,london metropolitan university,"architecture, built environment and planning",2,0,40,20,40,12.0,16.666666666666668
+428,london metropolitan university sir john cass faculty of art architecture and design,"art and design: history, practice and theory",2,,,,,,
+429,london school of economics and political science,business and management studies,8,64.4,35.6,0,0,80.77,4.511576080227808
+430,london school of economics and political science,law,7,77.1,11.5,11.4,0,62.87,5.816764752664228
+431,london school of economics and political science,politics and international studies,7,61.4,38.6,0,0,62.25,5.805622489959839
+432,london school of economics and political science,anthropology and development studies,6,26.7,0,46.6,26.7,19.05,11.9002624671916
+433,london school of economics and political science,anthropology and development studies,6,66.7,33.3,0,0,22.5,16.297777777777778
+434,london school of economics and political science,social work and social policy,6,100,0,0,0,47.2,8.47457627118644
+435,london school of economics and political science,economics and econometrics,6,86.7,13.3,0,0,51.4,7.523346303501946
+436,london school of economics and political science,history,5,34,50,16,0,44.0,7.2272727272727275
+437,london school of economics and political science,"geography, environmental studies and archaeology",5,40,36,8,16,36.2,8.287292817679557
+438,london school of economics and political science,mathematical sciences,4,0,70,30,0,31.04,8.698453608247423
+439,london school of economics and political science,area studies,3,100,0,0,0,19.65,20.356234096692113
+440,london school of economics and political science,philosophy,3,36.7,63.3,0,0,16.5,20.406060606060606
+441,london school of economics and political science,sociology,3,36.7,50,13.3,0,24.75,13.066666666666668
+442,london school of economics and political science,"communication, cultural and media studies, library and information management",2,100,0,0,0,14.0,28.571428571428573
+443,london school of hygiene tropical medicine,"public health, health services and primary care",27,,,,,,
+444,london school of hygiene tropical medicine,clinical medicine,7,,,,,,
+445,london south bank university,general engineering,4,10,70,20,0,33.5,8.656716417910447
+446,london south bank university,"psychology, psychiatry and neuroscience",2,0,60,40,0,9.8,26.530612244897956
+447,london south bank university,"communication, cultural and media studies, library and information management",2,0,80,20,0,10.2,27.450980392156865
+448,london south bank university,business and management studies,2,0,60,40,0,9.25,28.10810810810811
+449,london south bank university,"allied health professions, dentistry, nursing and pharmacy",2,20,60,20,0,14.6,20.547945205479454
+450,london south bank university,"sport and exercise sciences, leisure and tourism",2,40,50,10,0,9.4,35.1063829787234
+451,london south bank university,social work and social policy,2,0,50,50,0,14.9,16.778523489932887
+452,loughborough,business and management studies,1,,,,,,
+453,loughborough university,"aeronautical, mechanical, chemical and manufacturing engineering",11,48.6,40,11.4,0,127.4,2.6467817896389323
+454,loughborough university,"sport and exercise sciences, leisure and tourism",7,75,25,0,0,68.1,5.506607929515419
+455,loughborough university,"communication, cultural and media studies, library and information management",7,60,40,0,0,16.8,21.428571428571427
+456,loughborough university,"communication, cultural and media studies, library and information management",7,50,40,10,0,30.7,11.074918566775244
+457,loughborough university,business and management studies,6,27.1,50,22.9,0,60.5,5.028099173553719
+458,loughborough university,"electrical and electronic engineering, metallurgy and materials",5,10,58,24,8,37.6,7.180851063829787
+459,loughborough university,mathematical sciences,4,0,60,30,10,33.8,7.396449704142013
+460,loughborough university,civil and construction engineering,4,20,70,10,0,31.9,9.717868338557993
+461,loughborough university,"geography, environmental studies and archaeology",4,10,30,60,0,30.2,8.27814569536424
+462,loughborough university,"art and design: history, practice and theory",3,66.7,26.6,6.7,0,54.73,6.577745295084963
+463,loughborough university,english language and literature,3,10,63.3,13.4,13.3,20.5,13.170731707317072
+464,loughborough university,area studies,3,0,53.3,46.7,0,23.5,10.778723404255318
+465,loughborough university,"architecture, built environment and planning",3,60,40,0,0,32.2,11.180124223602483
+466,loughborough university,computer science and informatics,2,13.3,60,26.7,0,17.2,16.662790697674417
+467,loughborough university,chemistry,2,26.7,46.6,26.7,0,22.65,13.245033112582782
+468,loughborough university,education,2,30,70,0,0,7.7,42.857142857142854
+469,loughborough university,physics,2,0,26.7,73.3,0,19.7,11.50761421319797
+470,loughborough university,social work and social policy,2,90,10,0,0,10.46,37.284894837476095
+471,manchester metropolitan university,"allied health professions, dentistry, nursing and pharmacy",7,45.7,54.3,0,0,61.4,5.630293159609121
+472,manchester metropolitan university,"art and design: history, practice and theory",6,26.7,60,0,13.3,54.65,5.491308325709058
+473,manchester metropolitan university,business and management studies,4,40,30,20,10,25.9,11.583011583011583
+474,manchester metropolitan university,education,3,36.7,63.3,0,0,22.5,14.964444444444444
+475,manchester metropolitan university,earth systems and environmental sciences,3,0,60,40,0,24.0,10.833333333333334
+476,manchester metropolitan university,sociology,3,40,60,0,0,21.25,16.0
+477,manchester metropolitan university,general engineering,3,0,86.7,13.3,0,21.3,13.460093896713616
+478,manchester metropolitan university,english language and literature,3,63.3,36.7,0,0,22.95,15.830065359477125
+479,manchester metropolitan university,history,2,40,60,0,0,14.2,23.943661971830988
+480,manchester metropolitan university,"music, drama, dance and performing arts",2,0,60,40,0,10.6,24.528301886792455
+481,manchester metropolitan university,computer science and informatics,2,20,40,0,0,11.5,17.391304347826086
+482,manchester metropolitan university,social work and social policy,2,0,50,50,0,14.45,17.301038062283737
+483,manchester metropolitan university,philosophy,2,0,50,50,0,8.0,31.25
+484,middlesex,social work and social policy,2,,,,,,
+485,middlesex university,computer science and informatics,6,0,23.3,30,33.4,53.1,3.075329566854991
+486,middlesex university,business and management studies,5,18,74,8,0,39.95,7.759699624530663
+487,middlesex university,"communication, cultural and media studies, library and information management",3,0,76.7,23.3,0,19.6,14.117346938775512
+488,middlesex university,law,3,26.7,63.3,10,0,20.0,15.834999999999999
+489,middlesex university,"music, drama, dance and performing arts",3,36.7,36.6,0,26.7,21.39,13.244506778868631
+490,middlesex university,social work and social policy,3,40,26.7,20,0,51.4,5.4494163424124515
+491,middlesex university,"art and design: history, practice and theory",3,26.7,73.3,0,0,23.59,13.849088596863076
+492,middlesex university,"psychology, psychiatry and neuroscience",2,0,100,0,0,13.1,22.900763358778626
+493,middlesex university,"geography, environmental studies and archaeology",2,40,60,0,0,14.92,22.78820375335121
+494,middlesex university,"allied health professions, dentistry, nursing and pharmacy",2,20,50,30,0,14.8,19.594594594594593
+495,newcastle universit,biological sciences,1,,,,,,
+496,newcastle university,clinical medicine,16,75,25,0,0,147.13,2.548766397063821
+497,newcastle university,business and management studies,7,27.1,27.2,40,5.7,60.2,4.579734219269103
+498,newcastle university,"psychology, psychiatry and neuroscience",6,86.7,13.3,0,0,51.58,7.497091896083755
+499,newcastle university,"geography, environmental studies and archaeology",6,0,60,40,0,8.7,29.88505747126437
+500,newcastle university,"geography, environmental studies and archaeology",6,70,20,10,0,27.2,13.23529411764706
+501,newcastle university,modern languages and linguistics,6,60,33.3,6.7,0,49.97,7.070242145287172
+502,newcastle university,civil and construction engineering,5,42,58,0,0,40.6,8.423645320197044
+503,newcastle university,"architecture, built environment and planning",5,42,58,0,0,41.8,8.181818181818182
+504,newcastle university,english language and literature,4,100,0,0,0,32.1,12.461059190031152
+505,newcastle university,"public health, health services and primary care",4,40,60,0,0,27.22,12.49081557678178
+506,newcastle university,"aeronautical, mechanical, chemical and manufacturing engineering",4,16,76,8,0,43.45,7.0886075949367084
+507,newcastle university,"electrical and electronic engineering, metallurgy and materials",4,40,30,10,0,31.2,8.653846153846153
+508,newcastle university,computer science and informatics,4,90,10,0,0,27.5,14.181818181818182
+509,newcastle university,"agriculture, veterinary and food science",4,30,40,30,0,25.4,11.811023622047244
+510,newcastle university,biological sciences,3,50,50,0,0,30.6,11.437908496732026
+511,newcastle university,law,3,0,76.7,23.3,0,21.0,13.17619047619048
+512,newcastle university,politics and international studies,3,0,63.3,36.7,0,20.6,12.78155339805825
+513,newcastle university,history,3,0,46.7,53.3,0,23.9,10.322175732217575
+514,newcastle university,education,3,26.7,73.3,0,0,16.7,19.562874251497007
+515,newcastle university,sociology,3,53.3,33.4,13.3,0,18.5,18.37837837837838
+516,newcastle university,"allied health professions, dentistry, nursing and pharmacy",3,73.3,26.7,0,0,19.0,19.64736842105263
+517,newcastle university,earth systems and environmental sciences,3,73.3,26.7,0,0,24.6,15.174796747967477
+518,newcastle university,"art and design: history, practice and theory",3,13.3,73.4,13.3,0,16.25,18.461538461538463
+519,newcastle university,chemistry,3,26.7,73.3,0,0,24.2,13.5
+520,newcastle university,mathematical sciences,3,53.3,36.7,10,0,20.4,16.828431372549023
+521,newcastle university,"music, drama, dance and performing arts",2,20,20,60,0,13.6,19.11764705882353
+522,newcastle university,"communication, cultural and media studies, library and information management",2,50,30,20,0,14.35,22.99651567944251
+523,newcastle university,classics,2,40,30,30,0,10.2,30.3921568627451
+524,newman university,"sport and exercise sciences, leisure and tourism",2,0,20,40,40,4.0,45.0
+525,newman university,history,2,-,-,-,-,2.4,0.0
+526,newman university,theology and religious studies,2,-,-,-,-,2.0,0.0
+527,newman university,education,2,0,0,90,10,7.4,25.675675675675674
+528,newman university,english language and literature,2,0,0,40,60,4.5,31.11111111111111
+529,newman university,"psychology, psychiatry and neuroscience",2,-,-,-,-,3.0,0.0
+530,norwich university of arts,"art and design: history, practice and theory",2,,,,,,
+531,nottingham trent university,business and management studies,3,13.3,86.7,0,0,23.0,13.621739130434783
+532,nottingham trent university,education,3,0,0,33.3,66.7,20.9,6.3779904306220105
+533,nottingham trent university,"psychology, psychiatry and neuroscience",3,73.3,26.7,0,0,21.8,17.123853211009173
+534,nottingham trent university,"art and design: history, practice and theory",3,13.3,46.7,13.3,0,20.9,10.52153110047847
+535,nottingham trent university,english language and literature,3,26.7,60,13.3,0,20.0,15.670000000000002
+536,nottingham trent university,history,2,20,60,20,0,8.25,36.36363636363637
+537,nottingham trent university,"communication, cultural and media studies, library and information management",2,20,50,30,0,11.7,24.786324786324787
+538,nottingham trent university,modern languages and linguistics,2,30,50,20,0,8.59,36.08847497089639
+539,nottingham trent university,"sport and exercise sciences, leisure and tourism",2,0,0,100,0,12.81,15.6128024980484
+540,nottingham trent university,computer science and informatics,2,30,50,20,0,14.25,21.75438596491228
+541,nottingham trent university,"architecture, built environment and planning",2,0,40,60,0,11.2,21.42857142857143
+542,nottingham trent university,"geography, environmental studies and archaeology",2,0,40,60,0,11.81,20.32176121930567
+543,nottingham trent university,"allied health professions, dentistry, nursing and pharmacy",2,53.3,46.7,0,0,23.8,14.844537815126051
+544,nottingham trent university,social work and social policy,2,30,30,40,0,9.52,30.46218487394958
+545,nottingham trent university,law,2,0,20,80,0,13.0,16.923076923076923
+546,nottingham trent university,general engineering,2,40,10,50,0,14.4,20.13888888888889
+547,nottingham trent university school of science and technology,"allied health professions, dentistry, nursing and pharmacy",1,,,,,,
+548,open university,earth systems and environmental sciences,6,5.7,71.4,22.9,0,58.01,4.875021548008965
+549,open university,education,6,60,20,20,0,54.26,6.266126059712495
+550,open university,sociology,5,60,24,16,0,37.0,9.297297297297296
+551,open university,computer science and informatics,4,0,50,50,0,31.1,8.038585209003216
+552,open university,"art and design: history, practice and theory",3,26.7,60,13.3,0,23.2,13.508620689655174
+553,open university,english language and literature,3,46.7,53.3,0,0,16.5,21.01212121212121
+554,open university,"allied health professions, dentistry, nursing and pharmacy",3,10,90,0,0,17.0,18.235294117647058
+555,open university,anthropology and development studies,3,23.3,76.7,0,0,22.1,14.628959276018099
+556,open university,mathematical sciences,3,0,26.7,46.6,0,18.8,9.21808510638298
+557,open university,business and management studies,3,50,50,0,0,17.9,19.553072625698327
+558,open university,social work and social policy,3,26.7,46.6,26.7,0,18.6,16.129032258064516
+559,open university,"electrical and electronic engineering, metallurgy and materials",3,0,86.7,13.3,0,18.0,15.92777777777778
+560,open university,"geography, environmental studies and archaeology",2,20,80,0,0,13.0,24.615384615384617
+561,open university,philosophy,2,10,10,80,0,8.0,28.75
+562,open university,theology and religious studies,2,0,30,70,0,6.0,38.333333333333336
+563,open university,classics,2,40,40,20,0,11.8,27.11864406779661
+564,open university,"music, drama, dance and performing arts",2,60,40,0,0,10.6,33.9622641509434
+565,open university,history,2,50,50,0,0,14.3,24.475524475524473
+566,open university uk,earth systems and environmental sciences,1,,,,,,
+567,oxford brookes university,history,4,10,80,10,0,28.75,10.434782608695652
+568,oxford brookes university,general engineering,4,0,50,40,10,25.9,9.266409266409267
+569,oxford brookes university,"architecture, built environment and planning",4,40,60,0,0,32.19,10.56228642435539
+570,oxford brookes university,biological sciences,4,30,50,0,20,25.6,11.328125
+571,oxford brookes university,business and management studies,3,26.7,73.3,0,0,23.5,13.902127659574468
+572,oxford brookes university,education,2,0,0,60,40,10.5,15.238095238095237
+573,oxford brookes university,"allied health professions, dentistry, nursing and pharmacy",2,40,50,10,0,10.2,32.35294117647059
+574,oxford brookes university,philosophy,2,0,0,80,20,6.3,28.571428571428573
+575,oxford brookes university,politics and international studies,2,40,10,30,20,14.6,18.493150684931507
+576,oxford brookes university,"art and design: history, practice and theory",2,0,40,20,40,7.9,25.31645569620253
+577,oxford brookes university,"communication, cultural and media studies, library and information management",2,0,0,40,60,7.3,19.178082191780824
+578,oxford brookes university,computer science and informatics,2,40,0,20,0,13.0,15.384615384615385
+579,oxford brookes university,"music, drama, dance and performing arts",2,60,0,40,0,11.65,27.467811158798284
+580,oxford brookes university,"psychology, psychiatry and neuroscience",2,0,60,40,0,14.7,17.687074829931973
+581,oxford brookes university,law,2,0,20,80,0,9.0,24.444444444444443
+582,oxford brookes university,"geography, environmental studies and archaeology",2,0,20,80,0,13.7,16.058394160583944
+583,oxford brookes university,english language and literature,2,0,100,0,0,14.7,20.408163265306122
+584,oxford university,politics and international studies,2,,,,,,
+585,phyesta,physics,11,,,,,,
+586,plymouth university,earth systems and environmental sciences,5,,,,,,
+587,plymouth university,"allied health professions, dentistry, nursing and pharmacy",4,,,,,,
+588,plymouth university,business and management studies,4,,,,,,
+589,plymouth university,"geography, environmental studies and archaeology",4,,,,,,
+590,plymouth university,general engineering,3,,,,,,
+591,plymouth university,social work and social policy,3,,,,,,
+592,plymouth university,education,3,,,,,,
+593,plymouth university,history,2,,,,,,
+594,plymouth university,english language and literature,2,,,,,,
+595,plymouth university,"architecture, built environment and planning",2,,,,,,
+596,plymouth university,mathematical sciences,2,,,,,,
+597,plymouth university,"art and design: history, practice and theory",2,,,,,,
+598,plymouth university,"electrical and electronic engineering, metallurgy and materials",2,,,,,,
+599,plymouth university,"music, drama, dance and performing arts",2,,,,,,
+600,plymouth university,clinical medicine,2,,,,,,
+601,plymouth university,computer science and informatics,1,,,,,,
+602,plymouth university,"psychology, psychiatry and neuroscience",1,,,,,,
+603,polis university of leed,politics and international studies,1,,,,,,
+604,queen margaret university,"psychology, psychiatry and neuroscience",2,,,,,,
+605,queen margaret university,"communication, cultural and media studies, library and information management",2,,,,,,
+606,queen margaret university,anthropology and development studies,2,,,,,,
+607,queen margaret university,modern languages and linguistics,2,,,,,,
+608,queen margaret university,"allied health professions, dentistry, nursing and pharmacy",2,,,,,,
+609,queen mary university of london,clinical medicine,15,76.7,12.6,5.4,0,144.11,2.466171674415377
+610,queen mary university of london,modern languages and linguistics,6,60,40,0,0,7.55,47.682119205298015
+611,queen mary university of london,modern languages and linguistics,6,30,50,20,0,31.4,9.872611464968154
+612,queen mary university of london,history,5,58,34,8,0,38.0,9.210526315789474
+613,queen mary university of london,law,5,16,84,0,0,35.02,9.023415191319245
+614,queen mary university of london,english language and literature,5,68,24,8,0,41.13,8.752735229759299
+615,queen mary university of london,"allied health professions, dentistry, nursing and pharmacy",4,50,50,0,0,32.2,10.869565217391303
+616,queen mary university of london,"geography, environmental studies and archaeology",4,30,50,10,10,31.35,9.569377990430622
+617,queen mary university of london,business and management studies,4,50,40,10,0,33.0,10.303030303030303
+618,queen mary university of london,"electrical and electronic engineering, metallurgy and materials",4,10,90,0,0,19.0,16.31578947368421
+619,queen mary university of london,"electrical and electronic engineering, metallurgy and materials",4,36.7,36.6,26.7,0,24.2,12.809917355371901
+620,queen mary university of london,physics,3,0,90,10,0,24.0,12.083333333333334
+621,queen mary university of london,"music, drama, dance and performing arts",3,100,0,0,0,16.0,25.0
+622,queen mary university of london,biological sciences,3,40,40,10,10,23.39,13.253527148353998
+623,queen mary university of london,economics and econometrics,3,13.3,86.7,0,0,24.45,12.813905930470348
+624,queen mary university of london,general engineering,3,63.3,23.4,13.3,0,24.6,14.227642276422763
+625,queen mary university of london,"public health, health services and primary care",3,76.7,23.3,0,0,20.61,18.2775351770985
+626,queen mary university of london,mathematical sciences,3,10,70,20,0,34.8,8.333333333333334
+627,queen mary university of london,politics and international studies,2,13.3,60,26.7,0,21.5,13.330232558139533
+628,queen mary university of london,chemistry,2,0,100,0,0,14.0,21.428571428571427
+629,queen mary university of london,computer science and informatics,1,50,50,0,0,30.5,11.475409836065573
+630,queen s university belfast,clinical medicine,8,,,,,,
+631,queen s university belfast,"allied health professions, dentistry, nursing and pharmacy",7,,,,,,
+632,queen s university belfast,business and management studies,6,,,,,,
+633,queen s university belfast,"aeronautical, mechanical, chemical and manufacturing engineering",6,,,,,,
+634,queen s university belfast,english language and literature,5,,,,,,
+635,queen s university belfast,physics,5,,,,,,
+636,queen s university belfast,"agriculture, veterinary and food science",4,,,,,,
+637,queen s university belfast,chemistry,4,,,,,,
+638,queen s university belfast,"public health, health services and primary care",4,,,,,,
+639,queen s university belfast,"geography, environmental studies and archaeology",4,,,,,,
+640,queen s university belfast,"architecture, built environment and planning",4,,,,,,
+641,queen s university belfast,"electrical and electronic engineering, metallurgy and materials",4,,,,,,
+642,queen s university belfast,civil and construction engineering,4,,,,,,
+643,queen s university belfast,social work and social policy,4,,,,,,
+644,queen s university belfast,law,4,,,,,,
+645,queen s university belfast,"music, drama, dance and performing arts",3,,,,,,
+646,queen s university belfast,history,3,,,,,,
+647,queen s university belfast,education,3,,,,,,
+648,queen s university belfast,modern languages and linguistics,3,,,,,,
+649,queen s university belfast,earth systems and environmental sciences,3,,,,,,
+650,queen s university belfast,"psychology, psychiatry and neuroscience",3,,,,,,
+651,queen s university belfast,sociology,3,,,,,,
+652,queen s university belfast,computer science and informatics,2,,,,,,
+653,queen s university belfast,philosophy,2,,,,,,
+654,queen s university belfast,anthropology and development studies,2,,,,,,
+655,queen s university belfast,politics and international studies,2,,,,,,
+656,queen s university of belfast,"music, drama, dance and performing arts",1,,,,,,
+657,robert gordon university,computer science and informatics,3,0,23.3,23.4,53.3,18.75,9.066666666666666
+658,robert gordon university,general engineering,2,0,70,30,0,14.0,19.285714285714285
+659,robert gordon university,"communication, cultural and media studies, library and information management",2,20,60,20,0,10.7,28.037383177570096
+660,robert gordon university,business and management studies,2,50,10,40,0,6.9,44.927536231884055
+661,robert gordon university,politics and international studies,2,0,20,80,0,5.2,42.30769230769231
+662,robert gordon university,law,2,0,20,80,0,9.0,24.444444444444443
+663,robert gordon university,"art and design: history, practice and theory",2,20,70,10,0,9.0,34.44444444444444
+664,robert gordon university,"architecture, built environment and planning",2,0,0,50,50,14.6,10.273972602739727
+665,robert gordon university and university of highlands islands,"allied health professions, dentistry, nursing and pharmacy",2,,,,,,
+666,robert gordon university university of highlands islands,"allied health professions, dentistry, nursing and pharmacy",1,,,,,,
+667,rose bruford college of atre and performance,"music, drama, dance and performing arts",2,,,,,,
+668,royal academy of music,"music, drama, dance and performing arts",2,30,30,40,0,13.9,20.863309352517984
+669,royal agricultural university,"agriculture, veterinary and food science",2,0,0,20,40,12.0,6.666666666666667
+670,royal central school of speech and drama university of london,"music, drama, dance and performing arts",3,,,,,,
+671,royal college of music,"music, drama, dance and performing arts",2,90,10,0,0,14.4,27.083333333333332
+672,royal conservatoire of scotland,"music, drama, dance and performing arts",2,60,40,0,0,14.78,24.357239512855212
+673,royal holloway royal holloway,earth systems and environmental sciences,1,,,,,,
+674,royal holloway university of english,english language and literature,1,,,,,,
+675,royal holloway university of london,"music, drama, dance and performing arts",6,,,,,,
+676,royal holloway university of london,business and management studies,5,,,,,,
+677,royal holloway university of london,history,4,,,,,,
+678,royal holloway university of london,physics,3,,,,,,
+679,royal holloway university of london,modern languages and linguistics,3,,,,,,
+680,royal holloway university of london,"psychology, psychiatry and neuroscience",3,,,,,,
+681,royal holloway university of london,biological sciences,3,,,,,,
+682,royal holloway university of london,computer science and informatics,3,,,,,,
+683,royal holloway university of london,"geography, environmental studies and archaeology",3,,,,,,
+684,royal holloway university of london,politics and international studies,3,,,,,,
+685,royal holloway university of london,english language and literature,3,,,,,,
+686,royal holloway university of london,"communication, cultural and media studies, library and information management",2,,,,,,
+687,royal holloway university of london,classics,2,,,,,,
+688,royal holloway university of london,earth systems and environmental sciences,2,,,,,,
+689,royal holloway university of london,economics and econometrics,2,,,,,,
+690,royal holloway university of london,mathematical sciences,2,,,,,,
+691,royal veterinary college,"agriculture, veterinary and food science",11,63.6,21.9,10.9,3.6,103.49,3.3384868103198384
+692,school of natural sciences psychology,"psychology, psychiatry and neuroscience",2,,,,,,
+693,sheffield hallam university,"sport and exercise sciences, leisure and tourism",4,30,40,30,0,32.0,9.375
+694,sheffield hallam university,"electrical and electronic engineering, metallurgy and materials",4,0,60,40,0,31.2,8.333333333333334
+695,sheffield hallam university,history,3,13.3,50,36.7,0,15.0,18.44
+696,sheffield hallam university,"communication, cultural and media studies, library and information management",3,26.7,63.3,10,0,24.8,12.77016129032258
+697,sheffield hallam university,"allied health professions, dentistry, nursing and pharmacy",3,0,86.7,13.3,0,22.75,12.602197802197804
+698,sheffield hallam university,biological sciences,3,0,46.7,53.3,0,16.2,15.228395061728397
+699,sheffield hallam university,"art and design: history, practice and theory",3,73.3,26.7,0,0,24.46,15.261651676206048
+700,sheffield hallam university,"architecture, built environment and planning",3,53.3,46.7,0,0,19.2,18.401041666666668
+701,sheffield hallam university,english language and literature,3,13.3,36.7,36.7,13.3,21.39,11.687704534829361
+702,sheffield hallam university,business and management studies,2,20,30,50,0,6.8,39.705882352941174
+703,sheffield hallam university,education,2,0,50,10,40,12.4,16.93548387096774
+704,soas,anthropology and development studies,8,,,,,,
+705,soas,area studies,6,,,,,,
+706,soas,history,3,,,,,,
+707,soas,law,3,,,,,,
+708,soas,business and management studies,3,,,,,,
+709,soas,politics and international studies,2,,,,,,
+710,soas,modern languages and linguistics,2,,,,,,
+711,soas,"music, drama, dance and performing arts",2,,,,,,
+712,soas,"art and design: history, practice and theory",2,,,,,,
+713,soas,theology and religious studies,2,,,,,,
+714,southampton solent university,"art and design: history, practice and theory",3,0,0,36.7,50,15.85,7.785488958990537
+715,southampton solent university,"sport and exercise sciences, leisure and tourism",2,0,0,20,80,6.0,20.0
+716,southampton solent university,"communication, cultural and media studies, library and information management",2,0,0,50,10,5.2,21.153846153846153
+717,southampton solent university,general engineering,2,0,0,0,20,8.5,2.3529411764705883
+718,st george s university of london,clinical medicine,5,,,,,,
+719,st george s university of london,"public health, health services and primary care",2,,,,,,
+720,st mary s university college,history,2,,,,,,
+721,st mary s university college,"communication, cultural and media studies, library and information management",2,,,,,,
+722,st mary s university college,philosophy,2,,,,,,
+723,st mary s university college,theology and religious studies,2,,,,,,
+724,st mary s university college,education,2,,,,,,
+725,st mary s university college,"sport and exercise sciences, leisure and tourism",2,,,,,,
+726,st mary s university college,english language and literature,2,,,,,,
+727,st mary s university college belfast,politics and international studies,2,,,,,,
+728,staffordshire university,"communication, cultural and media studies, library and information management",2,0,20,20,60,13.5,11.851851851851851
+729,staffordshire university,business and management studies,2,0,50,50,0,7.3,34.24657534246575
+730,staffordshire university,education,2,0,0,60,40,6.75,23.703703703703702
+731,staffordshire university,"psychology, psychiatry and neuroscience",2,40,60,0,0,13.8,24.63768115942029
+732,staffordshire university,"sport and exercise sciences, leisure and tourism",2,40,40,20,0,13.4,23.88059701492537
+733,staffordshire university,computer science and informatics,2,0,20,80,0,7.8,28.205128205128204
+734,staffordshire university,"art and design: history, practice and theory",2,0,60,30,10,9.9,25.252525252525253
+735,staffordshire university,general engineering,2,0,40,30,30,8.4,25.0
+736,stranmillis university college,education,2,0,40,0,60,5.0,36.0
+737,swansea university,general engineering,8,55,45,0,0,74.83,4.744086596284912
+738,swansea university,"allied health professions, dentistry, nursing and pharmacy",7,66,34,0,0,44.9,8.151447661469934
+739,swansea university,"allied health professions, dentistry, nursing and pharmacy",7,20,80,0,0,14.2,22.535211267605636
+740,swansea university,business and management studies,4,60,30,10,0,27.9,12.544802867383513
+741,swansea university,"geography, environmental studies and archaeology",4,50,50,0,0,27.7,12.635379061371841
+742,swansea university,history,3,36.7,63.3,0,0,20.0,16.835
+743,swansea university,physics,3,0,63.3,36.7,0,21.0,12.538095238095236
+744,swansea university,law,3,53.3,26.7,20,0,19.5,17.09230769230769
+745,swansea university,computer science and informatics,3,60,13.3,13.4,13.3,19.6,16.3265306122449
+746,swansea university,english language and literature,3,100,0,0,0,16.53,24.19842710223835
+747,swansea university,modern languages and linguistics,2,70,30,0,0,12.0,30.833333333333332
+748,swansea university,modern languages and linguistics,2,40,60,0,0,4.2,80.95238095238095
+749,swansea university,"psychology, psychiatry and neuroscience",2,100,0,0,0,14.8,27.027027027027025
+750,swansea university,"sport and exercise sciences, leisure and tourism",2,70,30,0,0,10.0,37.0
+751,swansea university,social work and social policy,2,0,30,50,20,8.4,25.0
+752,swansea university,earth systems and environmental sciences,2,40,40,20,0,11.2,28.571428571428573
+753,swansea university,politics and international studies,2,40,50,10,0,8.2,40.243902439024396
+754,swansea university,mathematical sciences,2,20,30,10,20,14.7,14.285714285714286
+755,swansea university prifysgol abertawe,modern languages and linguistics,2,,,,,,
+756,teesside university,"allied health professions, dentistry, nursing and pharmacy",3,26.7,73.3,0,0,16.0,20.41875
+757,teesside university,history,2,20,80,0,0,11.0,29.09090909090909
+758,teesside university,business and management studies,2,10,50,0,0,5.5,34.54545454545455
+759,teesside university,social work and social policy,2,40,60,0,0,10.8,31.48148148148148
+760,teesside university,computer science and informatics,2,0,0,100,0,12.7,15.748031496062993
+761,teesside university,"art and design: history, practice and theory",2,20,50,30,0,11.8,24.576271186440678
+762,teesside university,english language and literature,2,0,80,20,0,6.4,43.75
+763,teesside university,general engineering,1,0,90,10,0,13.0,22.307692307692307
+764,trinity laban conservatoire of music and dance,"music, drama, dance and performing arts",2,20,80,0,0,11.6,27.586206896551726
+765,ucl,biological sciences,2,,,,,,
+766,ucl,education,2,,,,,,
+767,ucl,"communication, cultural and media studies, library and information management",1,,,,,,
+768,udur university of durham,mathematical sciences,6,,,,,,
+769,uel,social work and social policy,1,,,,,,
+770,uhi,modern languages and linguistics,1,,,,,,
+771,ulip,modern languages and linguistics,2,,,,,,
+772,ulster,"sport and exercise sciences, leisure and tourism",2,,,,,,
+773,university cambridge,clinical medicine,1,,,,,,
+774,university college london,clinical medicine,46,84.3,12.2,3.5,0,449.74,0.8467114332725574
+775,university college london,"psychology, psychiatry and neuroscience",30,73.3,24,2.7,0,286.6,1.2930914166085135
+776,university college london,"public health, health services and primary care",17,78.8,16.5,4.7,0,159.75,2.341784037558685
+777,university college london,"architecture, built environment and planning",15,52,42.7,5.3,0,135.93,2.5505775031266094
+778,university college london,"geography, environmental studies and archaeology",12,48.6,28.5,17.2,5.7,60.93,5.25192844247497
+779,university college london,"geography, environmental studies and archaeology",12,66,26,8,0,40.4,8.861386138613861
+780,university college london,"allied health professions, dentistry, nursing and pharmacy",10,60,40,0,0,34.23,10.5170902716915
+781,university college london,"allied health professions, dentistry, nursing and pharmacy",10,66.7,33.3,0,0,46.8,7.835470085470086
+782,university college london,physics,8,30,60,10,0,110.53,2.8951415905184112
+783,university college london,computer science and informatics,8,80,20,0,0,70.7,5.374823196605375
+784,university college london,mathematical sciences,7,11.4,54.3,34.3,0,62.95,4.401906274821286
+785,university college london,"art and design: history, practice and theory",6,40,60,0,0,17.0,20.0
+786,university college london,"art and design: history, practice and theory",6,26.7,73.3,0,0,19.0,17.19473684210526
+787,university college london,modern languages and linguistics,6,56.7,30,13.3,0,48.47,7.084794718382505
+788,university college london,law,6,86.7,13.3,0,0,47.04,8.220663265306124
+789,university college london,civil and construction engineering,5,8,50,42,0,38.1,6.981627296587926
+790,university college london,area studies,5,84,0,16,0,39.36,9.34959349593496
+791,university college london,chemistry,5,65.7,22.9,5.7,5.7,62.0,5.62258064516129
+792,university college london,biological sciences,5,44,38,14,0,172.9,1.8392134181607864
+793,university college london,earth systems and environmental sciences,5,60,32,8,0,34.15,10.307467057101025
+794,university college london,"aeronautical, mechanical, chemical and manufacturing engineering",5,36.7,63.3,0,0,54.16,6.216765140324963
+795,university college london,economics and econometrics,5,92,8,0,0,36.9,10.623306233062332
+796,university college london,history,5,36,56,8,0,42.2,7.772511848341232
+797,university college london,general engineering,4,43.3,50,6.7,0,53.7,6.268156424581004
+798,university college london,anthropology and development studies,4,40,40,0,20,31.37,9.56327701625757
+799,university college london,politics and international studies,4,50,50,0,0,30.0,11.666666666666666
+800,university college london,english language and literature,4,60,30,10,0,28.4,12.323943661971832
+801,university college london,"electrical and electronic engineering, metallurgy and materials",3,42,58,0,0,38.0,9.0
+802,university college london,philosophy,3,80,10,10,0,23.95,15.448851774530272
+803,university college london,"communication, cultural and media studies, library and information management",2,40,36.7,23.3,0,17.35,18.253602305475507
+804,university college london,theology and religious studies,2,50,30,20,0,7.0,47.142857142857146
+805,university college london,business and management studies,2,40,20,40,0,13.0,23.076923076923077
+806,university college london,social work and social policy,2,100,0,0,0,12.8,31.25
+807,university college london,classics,2,30,70,0,0,13.0,25.384615384615383
+808,university college london birkbeck,biological sciences,2,,,,,,
+809,university college london birkbeck college,biological sciences,10,,,,,,
+810,university for creative arts,"art and design: history, practice and theory",3,,,,,,
+811,university of aberdeen,biological sciences,10,40,60,0,0,89.42,3.802281368821293
+812,university of aberdeen,clinical medicine,6,83.3,16.7,0,0,54.3,7.058931860036832
+813,university of aberdeen,"public health, health services and primary care",6,66.7,20,13.3,0,47.5,7.44
+814,university of aberdeen,general engineering,5,24,58,18,0,38.6,7.927461139896373
+815,university of aberdeen,earth systems and environmental sciences,4,50,40,10,0,28.4,11.971830985915494
+816,university of aberdeen,english language and literature,3,0,100,0,0,21.5,13.953488372093023
+817,university of aberdeen,modern languages and linguistics,3,26.7,36.6,10,26.7,22.0,11.968181818181819
+818,university of aberdeen,economics and econometrics,3,0,63.3,36.7,0,19.25,13.677922077922075
+819,university of aberdeen,theology and religious studies,3,53.3,46.7,0,0,19.0,18.594736842105263
+820,university of aberdeen,history,3,73.3,26.7,0,0,24.0,15.554166666666665
+821,university of aberdeen,computer science and informatics,3,26.7,46.6,26.7,0,19.0,15.789473684210526
+822,university of aberdeen,"psychology, psychiatry and neuroscience",3,0,100,0,0,20.6,14.563106796116504
+823,university of aberdeen,"agriculture, veterinary and food science",3,100,0,0,0,20.4,19.607843137254903
+824,university of aberdeen,chemistry,3,40,60,0,0,20.2,16.831683168316832
+825,university of aberdeen,mathematical sciences,3,0,73.3,26.7,0,23.1,11.831168831168828
+826,university of aberdeen,anthropology and development studies,2,10,50,40,0,11.0,24.545454545454547
+827,university of aberdeen,"architecture, built environment and planning",2,40,60,0,0,10.4,32.69230769230769
+828,university of aberdeen,law,2,0,53.3,46.7,0,23.4,10.824786324786325
+829,university of aberdeen,philosophy,2,0,0,40,60,13.25,10.566037735849056
+830,university of aberdeen,"geography, environmental studies and archaeology",2,0,70,30,0,13.4,20.149253731343283
+831,university of aberdeen,politics and international studies,2,0,10,70,20,11.2,16.964285714285715
+832,university of aberdeen,"music, drama, dance and performing arts",2,20,80,0,0,11.36,28.169014084507044
+833,university of aberdeen,education,2,20,70,10,0,9.6,32.29166666666667
+834,university of aberdeen,sociology,2,0,90,10,0,13.0,22.307692307692307
+835,university of aberdeen,business and management studies,2,80,20,0,0,13.3,28.57142857142857
+836,university of abertay dundee,"sport and exercise sciences, leisure and tourism",2,0,0,100,0,6.0,33.333333333333336
+837,university of abertay dundee,"psychology, psychiatry and neuroscience",2,40,60,0,0,7.79,43.64569961489089
+838,university of abertay dundee,earth systems and environmental sciences,2,0,60,40,0,14.45,17.99307958477509
+839,university of abertay dundee,sociology,2,0,0,40,60,7.0,20.0
+840,university of abertay dundee,law,1,0,10,50,0,3.5,37.142857142857146
+841,university of abertay dundee,biological sciences,1,0,10,10,40,13.6,6.61764705882353
+842,university of abertay dundee,general engineering,1,0,0,40,60,14.2,9.859154929577466
+843,university of arts london,"art and design: history, practice and theory",12,,,,,,
+844,university of bath,business and management studies,7,48.6,40,0,11.4,64.9,5.020030816640985
+845,university of bath,"aeronautical, mechanical, chemical and manufacturing engineering",7,38.6,61.4,0,0,61.0,5.550819672131148
+846,university of bath,"allied health professions, dentistry, nursing and pharmacy",6,73.3,20,6.7,0,54.2,6.7638376383763825
+847,university of bath,social work and social policy,5,84,16,0,0,35.55,10.801687763713081
+848,university of bath,mathematical sciences,5,42,42,8,8,44.4,7.162162162162162
+849,university of bath,chemistry,4,50,50,0,0,33.1,10.574018126888218
+850,university of bath,"architecture, built environment and planning",4,90,10,0,0,28.38,13.742071881606766
+851,university of bath,area studies,3,40,60,0,0,26.0,13.076923076923077
+852,university of bath,physics,3,66.7,33.3,0,0,23.0,15.943478260869565
+853,university of bath,biological sciences,3,13.3,86.7,0,0,24.5,12.787755102040817
+854,university of bath,computer science and informatics,3,0,100,0,0,24.0,12.5
+855,university of bath,"electrical and electronic engineering, metallurgy and materials",3,23.3,76.7,0,0,20.5,15.770731707317074
+856,university of bath,"sport and exercise sciences, leisure and tourism",3,73.3,26.7,0,0,22.0,16.968181818181815
+857,university of bedfordshire,computer science and informatics,4,0,50,40,10,34.6,6.936416184971098
+858,university of bedfordshire,"allied health professions, dentistry, nursing and pharmacy",3,53.3,46.7,0,0,24.9,14.188755020080322
+859,university of bedfordshire,earth systems and environmental sciences,2,0,20,70,10,4.8,43.75
+860,university of bedfordshire,"communication, cultural and media studies, library and information management",2,0,60,40,0,11.5,22.608695652173914
+861,university of bedfordshire,"music, drama, dance and performing arts",2,0,0,60,40,6.8,23.529411764705884
+862,university of bedfordshire,law,2,0,0,100,0,5.2,38.46153846153846
+863,university of bedfordshire,"sport and exercise sciences, leisure and tourism",2,0,13.3,60,26.7,19.4,9.618556701030927
+864,university of bedfordshire,social work and social policy,2,60,40,0,0,14.2,25.35211267605634
+865,university of bedfordshire,business and management studies,2,0,10,90,0,14.0,15.0
+866,university of bedfordshire,english language and literature,2,100,0,0,0,9.0,44.44444444444444
+867,university of bedfordshire,education,1,0,0,60,40,8.4,19.047619047619047
+868,university of birmingham,clinical medicine,17,54.1,36.5,9.4,0,164.15,2.0999086201644834
+869,university of birmingham,history,5,58,42,0,0,37.2,9.623655913978494
+870,university of birmingham,english language and literature,5,26,74,0,0,37.2,8.763440860215054
+871,university of birmingham,politics and international studies,5,40,40,13.3,6.7,47.07,6.656044189504993
+872,university of birmingham,business and management studies,5,30,50,20,0,53.1,5.83804143126177
+873,university of birmingham,biological sciences,5,10,66,24,0,42.8,6.682242990654206
+874,university of birmingham,mathematical sciences,5,10,42,32,0,40.0,5.75
+875,university of birmingham,"psychology, psychiatry and neuroscience",5,68,32,0,0,40.8,9.019607843137255
+876,university of birmingham,"public health, health services and primary care",5,58,42,0,0,44.7,8.008948545861298
+877,university of birmingham,physics,4,24,26,42,8,39.0,6.82051282051282
+878,university of birmingham,"aeronautical, mechanical, chemical and manufacturing engineering",4,10,76.7,13.3,0,21.0,14.12857142857143
+879,university of birmingham,"aeronautical, mechanical, chemical and manufacturing engineering",4,70,30,0,0,32.5,11.384615384615385
+880,university of birmingham,"sport and exercise sciences, leisure and tourism",4,60,40,0,0,34.4,10.465116279069768
+881,university of birmingham,"geography, environmental studies and archaeology",4,50,50,0,0,25.0,14.0
+882,university of birmingham,modern languages and linguistics,4,0,80,20,0,33.1,8.459214501510573
+883,university of birmingham,earth systems and environmental sciences,4,10,90,0,0,28.2,10.99290780141844
+884,university of birmingham,"music, drama, dance and performing arts",4,10,70,20,0,10.2,28.43137254901961
+885,university of birmingham,"music, drama, dance and performing arts",4,40,20,20,20,6.0,46.666666666666664
+886,university of birmingham,"electrical and electronic engineering, metallurgy and materials",4,30,70,0,0,26.2,12.595419847328245
+887,university of birmingham,"electrical and electronic engineering, metallurgy and materials",4,50,30,10,10,29.1,10.996563573883162
+888,university of birmingham,social work and social policy,4,20,70,10,0,34.5,8.985507246376812
+889,university of birmingham,civil and construction engineering,3,13.3,50,36.7,0,18.1,15.281767955801104
+890,university of birmingham,"allied health professions, dentistry, nursing and pharmacy",3,60,40,0,0,15.9,22.641509433962263
+891,university of birmingham,classics,3,46.7,53.3,0,0,20.0,17.335
+892,university of birmingham,chemistry,3,0,80,20,0,28.0,10.0
+893,university of birmingham,law,3,20,40,30,10,31.79,8.49323686693929
+894,university of birmingham,theology and religious studies,2,60,40,0,0,9.0,40.0
+895,university of birmingham,"art and design: history, practice and theory",2,40,60,0,0,6.2,54.83870967741935
+896,university of birmingham,computer science and informatics,2,52,48,0,0,40.6,8.669950738916256
+897,university of birmingham,education,2,36.7,50,13.3,0,23.7,13.645569620253166
+898,university of birmingham,economics and econometrics,2,26.7,46.6,26.7,0,24.2,12.396694214876034
+899,university of birmingham,philosophy,2,80,20,0,0,14.0,27.142857142857142
+900,university of birmingham,area studies,2,50,50,0,0,7.6,46.05263157894737
+901,university of bolton,general engineering,2,0,40,60,0,14.0,17.142857142857142
+902,university of bolton,"communication, cultural and media studies, library and information management",2,0,0,30,30,7.8,11.538461538461538
+903,university of bolton,education,2,0,40,60,0,7.4,32.43243243243243
+904,university of bolton,"psychology, psychiatry and neuroscience",2,0,40,60,0,5.3,45.28301886792453
+905,university of bolton,social work and social policy,2,0,0,0,60,4.1,14.634146341463415
+906,university of bolton,"architecture, built environment and planning",2,0,0,10,10,4.2,7.142857142857142
+907,university of bolton,english language and literature,2,60,40,0,0,6.3,57.142857142857146
+908,university of bradford,"allied health professions, dentistry, nursing and pharmacy",5,32,68,0,0,44.0,7.545454545454546
+909,university of bradford,business and management studies,3,46.7,40,13.3,0,19.2,17.364583333333336
+910,university of bradford,"aeronautical, mechanical, chemical and manufacturing engineering",3,0,63.3,36.7,0,16.8,15.672619047619044
+911,university of bradford,"geography, environmental studies and archaeology",2,60,40,0,0,12.8,28.125
+912,university of bradford,politics and international studies,2,60,40,0,0,13.4,26.865671641791042
+913,university of bradford,civil and construction engineering,2,20,30,10,0,7.2,26.38888888888889
+914,university of bradford,social work and social policy,2,40,40,20,0,10.33,30.977734753146176
+915,university of brighton,"art and design: history, practice and theory",7,54.3,45.7,0,0,63.9,5.544600938967136
+916,university of brighton,"allied health professions, dentistry, nursing and pharmacy",4,80,20,0,0,22.5,16.88888888888889
+917,university of brighton,social work and social policy,4,40,40,10,10,27.1,11.43911439114391
+918,university of brighton,"sport and exercise sciences, leisure and tourism",3,26.7,73.3,0,0,21.41,15.259224661373189
+919,university of brighton,earth systems and environmental sciences,2,20,60,20,0,14.25,21.05263157894737
+920,university of brighton,"communication, cultural and media studies, library and information management",2,60,30,10,0,14.7,23.80952380952381
+921,university of brighton,education,2,0,50,50,0,7.3,34.24657534246575
+922,university of brighton,computer science and informatics,2,20,80,0,0,14.0,22.857142857142858
+923,university of brighton,business and management studies,2,73.3,26.7,0,0,15.8,23.62658227848101
+924,university of bristol,clinical medicine,9,100,0,0,0,84.45,4.736530491415039
+925,university of bristol,"public health, health services and primary care",8,100,0,0,0,74.6,5.361930294906166
+926,university of bristol,"psychology, psychiatry and neuroscience",8,80,20,0,0,68.81,5.522453131812236
+927,university of bristol,general engineering,7,72.3,21.5,6.2,0,123.38,2.9672556330037283
+928,university of bristol,"geography, environmental studies and archaeology",7,56.7,36.6,6.7,0,46.45,7.534983853606027
+929,university of bristol,"geography, environmental studies and archaeology",7,0,10,50,40,9.3,18.279569892473116
+930,university of bristol,biological sciences,7,22.9,67.1,10,0,64.6,4.843653250773994
+931,university of bristol,mathematical sciences,7,68.9,26.7,4.4,0,83.5,4.365269461077845
+932,university of bristol,physics,5,26,58,16,0,44.15,7.021517553793885
+933,university of bristol,law,5,68,32,0,0,39.0,9.435897435897436
+934,university of bristol,social work and social policy,5,40,60,0,0,35.9,9.470752089136491
+935,university of bristol,earth systems and environmental sciences,5,32,68,0,0,44.28,7.497741644083107
+936,university of bristol,chemistry,5,54.3,34.3,11.4,0,58.6,5.851535836177474
+937,university of bristol,modern languages and linguistics,4,20,30,20,30,31.1,7.717041800643086
+938,university of bristol,"music, drama, dance and performing arts",4,60,40,0,0,12.5,28.8
+939,university of bristol,"music, drama, dance and performing arts",4,30,30,40,0,9.0,32.22222222222222
+940,university of bristol,politics and international studies,4,10,90,0,0,25.8,12.015503875968992
+941,university of bristol,"agriculture, veterinary and food science",4,80,20,0,0,34.03,11.166617690273288
+942,university of bristol,english language and literature,3,0,76.7,23.3,0,21.0,13.17619047619048
+943,university of bristol,classics,3,13.3,63.4,23.3,0,15.0,19.333333333333332
+944,university of bristol,business and management studies,3,70,30,0,0,27.5,13.454545454545455
+945,university of bristol,history,3,0,63.3,36.7,0,18.8,14.005319148936167
+946,university of bristol,sociology,3,63.3,36.7,0,0,17.0,21.370588235294118
+947,university of bristol,economics and econometrics,3,100,0,0,0,18.6,21.50537634408602
+948,university of bristol,"allied health professions, dentistry, nursing and pharmacy",3,80,20,0,0,16.18,23.485784919653895
+949,university of bristol,education,2,50,50,0,0,34.5,10.144927536231885
+950,university of bristol,"sport and exercise sciences, leisure and tourism",2,100,0,0,0,7.0,57.142857142857146
+951,university of bristol,theology and religious studies,2,0,50,50,0,8.6,29.069767441860467
+952,university of bristol,"art and design: history, practice and theory",2,20,60,20,0,8.0,37.5
+953,university of bristol,philosophy,1,20,70,10,0,14.5,21.379310344827587
+954,university of bristol graduate school of education,education,2,,,,,,
+955,university of cambridge,biological sciences,20,70,24,6,0,189.63,1.9195275009228498
+956,university of cambridge,general engineering,19,68.4,27.4,4.2,0,177.2,2.0553047404063207
+957,university of cambridge,clinical medicine,18,86,2,12,0,192.05,1.9474095287685498
+958,university of cambridge,mathematical sciences,13,44.7,44.6,10.7,0,143.77,2.32315503929888
+959,university of cambridge,physics,13,47.5,42.5,10,0,153.3,2.2015655577299413
+960,university of cambridge,history,12,50.8,30.7,18.5,0,115.1,2.887054735013032
+961,university of cambridge,modern languages and linguistics,10,35.5,53.6,10.9,0,96.53,3.36268517559308
+962,university of cambridge,"psychology, psychiatry and neuroscience",9,73.3,17.8,8.9,0,75.95,4.797893350888743
+963,university of cambridge,english language and literature,8,10,65,15,10,66.6,4.129129129129129
+964,university of cambridge,philosophy,8,0,100,0,0,18.2,16.483516483516485
+965,university of cambridge,philosophy,8,74,26,0,0,34.96,10.697940503432495
+966,university of cambridge,"public health, health services and primary care",7,28.6,65.7,5.7,0,57.07,5.657963903977571
+967,university of cambridge,"geography, environmental studies and archaeology",6,42,42,16,0,42.7,7.634660421545667
+968,university of cambridge,"geography, environmental studies and archaeology",6,56.7,43.3,0,0,45.7,7.805251641137855
+969,university of cambridge,computer science and informatics,6,86.7,13.3,0,0,54.6,7.082417582417583
+970,university of cambridge,anthropology and development studies,5,48,52,0,0,35.88,9.698996655518394
+971,university of cambridge,"agriculture, veterinary and food science",5,58,26,16,0,39.6,8.636363636363637
+972,university of cambridge,classics,5,66,34,0,0,38.5,9.506493506493506
+973,university of cambridge,chemistry,5,65.7,34.3,0,0,62.7,5.832535885167464
+974,university of cambridge,education,4,80,10,10,0,34.2,10.818713450292396
+975,university of cambridge,area studies,4,20,70,10,0,32.0,9.6875
+976,university of cambridge,"electrical and electronic engineering, metallurgy and materials",4,80,20,0,0,33.56,11.32300357568534
+977,university of cambridge,business and management studies,4,84,16,0,0,38.9,9.87146529562982
+978,university of cambridge,politics and international studies,4,40,40,20,0,29.5,10.847457627118644
+979,university of cambridge,economics and econometrics,4,50,50,0,0,27.0,12.962962962962964
+980,university of cambridge,"architecture, built environment and planning",4,68,32,0,0,39.09,9.41417242261448
+981,university of cambridge,"aeronautical, mechanical, chemical and manufacturing engineering",4,50,30,20,0,32.3,10.21671826625387
+982,university of cambridge,law,3,55.6,40,4.4,0,75.8,4.633245382585752
+983,university of cambridge,"music, drama, dance and performing arts",3,0,80,20,0,22.4,12.5
+984,university of cambridge,sociology,3,40,60,0,0,15.87,21.424070573408947
+985,university of cambridge,theology and religious studies,3,53.3,46.7,0,0,24.4,14.479508196721312
+986,university of central lancashire,"allied health professions, dentistry, nursing and pharmacy",6,23.3,43.4,33.3,0,49.56,5.851493139628732
+987,university of central lancashire,social work and social policy,4,10,90,0,0,27.32,11.346998535871156
+988,university of central lancashire,"psychology, psychiatry and neuroscience",3,46.7,53.3,0,0,17.6,19.698863636363633
+989,university of central lancashire,"sport and exercise sciences, leisure and tourism",3,0,10,90,0,21.2,9.90566037735849
+990,university of central lancashire,history,2,0,50,30,20,10.18,22.593320235756387
+991,university of central lancashire,"communication, cultural and media studies, library and information management",2,0,70,30,0,8.85,30.508474576271187
+992,university of central lancashire,law,2,0,50,50,0,10.8,23.148148148148145
+993,university of central lancashire,modern languages and linguistics,2,20,30,50,0,10.6,25.471698113207548
+994,university of central lancashire,"electrical and electronic engineering, metallurgy and materials",2,0,0,90,10,8.0,23.75
+995,university of central lancashire,business and management studies,2,40,30,30,0,11.45,27.074235807860262
+996,university of central lancashire,"art and design: history, practice and theory",2,20,40,40,0,13.78,20.319303338171263
+997,university of central lancashire,"geography, environmental studies and archaeology",2,0,0,80,20,8.0,22.5
+998,university of central lancashire,"architecture, built environment and planning",2,0,0,100,0,9.9,20.2020202020202
+999,university of central lancashire,general engineering,2,0,0,80,20,11.6,15.517241379310345
+1000,university of central lancashire,english language and literature,2,0,80,20,0,7.2,38.888888888888886
+1001,university of central lancashire,physics,1,0,50,36.7,13.3,20.91,11.319942611190818
+1002,university of chester,"geography, environmental studies and archaeology",4,0,0,10,50,9.6,7.291666666666667
+1003,university of chester,"geography, environmental studies and archaeology",4,0,0,0,90,4.2,21.428571428571427
+1004,university of chester,"allied health professions, dentistry, nursing and pharmacy",3,13.3,40,36.7,10,23.0,11.156521739130437
+1005,university of chester,history,2,0,30,70,0,6.0,38.333333333333336
+1006,university of chester,area studies,2,0,60,40,0,8.2,31.707317073170735
+1007,university of chester,education,2,0,0,30,70,5.0,26.0
+1008,university of chester,"psychology, psychiatry and neuroscience",2,40,40,20,0,13.4,23.88059701492537
+1009,university of chester,"sport and exercise sciences, leisure and tourism",2,0,40,60,0,12.4,19.35483870967742
+1010,university of chester,"music, drama, dance and performing arts",2,0,60,40,0,9.1,28.571428571428573
+1011,university of chester,business and management studies,2,0,0,60,40,6.0,26.666666666666668
+1012,university of chester,"art and design: history, practice and theory",2,0,0,100,0,3.7,54.05405405405405
+1013,university of chester,theology and religious studies,2,0,10,90,0,11.1,18.91891891891892
+1014,university of chester,english language and literature,2,0,20,60,20,11.0,18.181818181818183
+1015,university of chester,mathematical sciences,2,0,10,30,60,6.75,22.22222222222222
+1016,university of chester,social work and social policy,1,0,0,0,40,5.0,8.0
+1017,university of chichester,"sport and exercise sciences, leisure and tourism",3,53.3,36.7,10,0,19.0,18.068421052631578
+1018,university of chichester,history,2,0,20,80,0,7.5,29.333333333333332
+1019,university of chichester,"music, drama, dance and performing arts",2,50,10,40,0,11.7,26.495726495726498
+1020,university of chichester,english language and literature,2,0,50,50,0,7.5,33.333333333333336
+1021,university of chichester,"psychology, psychiatry and neuroscience",2,0,0,40,60,6.0,23.333333333333332
+1022,university of cumbria,"sport and exercise sciences, leisure and tourism",2,0,0,80,20,6.0,30.0
+1023,university of cumbria,"geography, environmental studies and archaeology",2,0,0,60,40,6.0,26.666666666666668
+1024,university of cumbria,education,2,0,20,50,30,4.72,40.2542372881356
+1025,university of cumbria,business and management studies,2,-,-,-,-,2.8,0.0
+1026,university of cumbria,"art and design: history, practice and theory",2,20,70,10,0,4.28,72.42990654205607
+1027,university of cumbria,"allied health professions, dentistry, nursing and pharmacy",2,-,-,-,-,3.0,0.0
+1028,university of derby,"communication, cultural and media studies, library and information management",3,0,80,20,0,16.7,16.766467065868266
+1029,university of derby,"psychology, psychiatry and neuroscience",2,40,40,20,0,14.4,22.22222222222222
+1030,university of derby,earth systems and environmental sciences,2,0,0,30,70,7.3,17.808219178082194
+1031,university of derby,law,2,0,20,80,0,6.2,35.483870967741936
+1032,university of derby,business and management studies,2,10,30,60,0,11.0,22.727272727272727
+1033,university of derby,biological sciences,2,0,0,60,0,12.0,10.0
+1034,university of derby,education,2,0,0,80,20,6.0,30.0
+1035,university of derby,computer science and informatics,2,0,0,0,100,12.0,8.333333333333334
+1036,university of derby,"art and design: history, practice and theory",2,20,30,50,0,8.2,32.926829268292686
+1037,university of derby,general engineering,2,0,40,60,0,13.0,18.46153846153846
+1038,university of dundee,biological sciences,8,75,25,0,0,73.2,5.1229508196721305
+1039,university of dundee,clinical medicine,6,100,0,0,0,49.5,8.080808080808081
+1040,university of dundee,"art and design: history, practice and theory",5,60,40,0,0,44.5,8.089887640449438
+1041,university of dundee,history,3,26.7,50,23.3,0,16.0,18.962500000000002
+1042,university of dundee,"allied health professions, dentistry, nursing and pharmacy",3,40,60,0,0,22.4,15.178571428571429
+1043,university of dundee,law,3,26.7,26.6,46.7,0,17.0,16.470588235294116
+1044,university of dundee,politics and international studies,2,0,0,50,50,7.2,20.833333333333332
+1045,university of dundee,english language and literature,2,0,70,30,0,10.5,25.714285714285715
+1046,university of dundee,general engineering,2,53.3,33.4,13.3,0,18.75,18.133333333333333
+1047,university of dundee,"architecture, built environment and planning",2,0,10,50,0,9.2,14.130434782608697
+1048,university of dundee,social work and social policy,2,80,20,0,0,10.0,38.0
+1049,university of dundee,civil and construction engineering,2,50,30,20,0,14.5,22.75862068965517
+1050,university of dundee,philosophy,2,0,20,80,0,5.0,44.0
+1051,university of dundee,"geography, environmental studies and archaeology",2,20,70,10,0,14.3,21.678321678321677
+1052,university of dundee,business and management studies,2,26.7,23.3,50,0,19.4,14.262886597938145
+1053,university of dundee,"psychology, psychiatry and neuroscience",2,80,20,0,0,14.9,25.503355704697984
+1054,university of dundee,"public health, health services and primary care",2,53.3,46.7,0,0,16.2,21.808641975308642
+1055,university of dundee,mathematical sciences,2,60,40,0,0,12.7,28.34645669291339
+1056,university of dundee,computer science and informatics,1,50,50,0,0,11.7,29.914529914529915
+1057,university of dundee,education,1,0,50,50,0,8.8,28.409090909090907
+1058,university of durham,physics,8,40,60,0,0,74.55,4.560697518443997
+1059,university of durham,education,1,100,0,0,0,24.5,16.3265306122449
+1060,university of east anglia,earth systems and environmental sciences,7,77.1,22.9,0,0,63.0,5.985714285714285
+1061,university of east anglia,biological sciences,5,40,60,0,0,44.0,7.7272727272727275
+1062,university of east anglia,history,4,30,40,30,0,34.8,8.620689655172415
+1063,university of east anglia,"allied health professions, dentistry, nursing and pharmacy",4,40,10,50,0,14.2,20.422535211267608
+1064,university of east anglia,"allied health professions, dentistry, nursing and pharmacy",4,40,60,0,0,14.0,24.285714285714285
+1065,university of east anglia,computer science and informatics,3,26.7,50,23.3,0,18.2,16.67032967032967
+1066,university of east anglia,english language and literature,3,53.3,46.7,0,0,18.3,19.306010928961747
+1067,university of east anglia,chemistry,3,40,60,0,0,19.6,17.346938775510203
+1068,university of east anglia,mathematical sciences,3,0,73.3,26.7,0,22.0,12.42272727272727
+1069,university of east anglia,anthropology and development studies,3,46.7,40,13.3,0,23.8,14.00840336134454
+1070,university of east anglia,business and management studies,3,50,50,0,0,24.1,14.522821576763485
+1071,university of east anglia,"art and design: history, practice and theory",2,80,20,0,0,14.9,25.503355704697984
+1072,university of east anglia,"psychology, psychiatry and neuroscience",2,60,40,0,0,13.6,26.47058823529412
+1073,university of east anglia,education,2,0,80,10,10,13.2,20.454545454545457
+1074,university of east anglia,"agriculture, veterinary and food science",2,40,60,0,0,11.0,30.90909090909091
+1075,university of east anglia,politics and international studies,2,0,90,10,0,12.0,24.166666666666668
+1076,university of east anglia,philosophy,2,50,50,0,0,6.3,55.55555555555556
+1077,university of east anglia,clinical medicine,2,40,20,0,40,14.4,18.055555555555554
+1078,university of east anglia,"public health, health services and primary care",2,50,50,0,0,14.0,25.0
+1079,university of east anglia,social work and social policy,2,80,20,0,0,9.6,39.583333333333336
+1080,university of east anglia,law,2,40,40,20,0,12.6,25.3968253968254
+1081,university of east anglia,area studies,2,50,50,0,0,14.0,25.0
+1082,university of east anglia,"communication, cultural and media studies, library and information management",2,0,70,30,0,9.5,28.42105263157895
+1083,university of east anglia,economics and econometrics,2,20,60,20,0,14.0,21.428571428571427
+1084,university of east london,sociology,3,53.3,23.4,23.3,0,19.4,17.010309278350515
+1085,university of east london,law,2,0,90,10,0,12.7,22.83464566929134
+1086,university of east london,business and management studies,2,10,50,40,0,3.25,83.07692307692308
+1087,university of east london,"communication, cultural and media studies, library and information management",2,20,80,0,0,14.8,21.62162162162162
+1088,university of east london,education,2,10,50,40,0,8.4,32.14285714285714
+1089,university of east london,"psychology, psychiatry and neuroscience",2,100,0,0,0,14.6,27.397260273972602
+1090,university of east london,"music, drama, dance and performing arts",2,50,30,20,0,7.2,45.833333333333336
+1091,university of east london,computer science and informatics,2,0,0,10,90,4.0,27.5
+1092,university of east london,"art and design: history, practice and theory",2,0,40,60,0,8.4,28.57142857142857
+1093,university of east london,"architecture, built environment and planning",2,0,50,10,40,5.2,40.38461538461538
+1094,university of east london,"allied health professions, dentistry, nursing and pharmacy",2,20,80,0,0,14.8,21.62162162162162
+1095,university of east london,general engineering,2,0,0,40,40,7.8,15.384615384615385
+1096,university of east london,social work and social policy,1,20,70,10,0,8.85,35.02824858757062
+1097,university of edinburgh,clinical medicine,22,74.5,23.7,1.8,0,206.93,1.8010921567679894
+1098,university of edinburgh,"psychology, psychiatry and neuroscience",13,81.5,18.5,0,0,117.28,3.252899045020464
+1099,university of edinburgh,biological sciences,12,80,20,0,0,109.7,3.463992707383774
+1100,university of edinburgh,earth systems and environmental sciences,11,31.8,50,18.2,0,104.98,2.987235663935987
+1101,university of edinburgh,computer science and informatics,10,48,32,4,8,94.85,3.205060622034792
+1102,university of edinburgh,modern languages and linguistics,9,58,34,8,0,36.55,9.575923392612859
+1103,university of edinburgh,modern languages and linguistics,9,40,40,20,0,34.25,9.343065693430656
+1104,university of edinburgh,sociology,7,54.3,45.7,0,0,58.14,6.09391124871001
+1105,university of edinburgh,history,7,40,54.3,5.7,0,61.22,5.460633779810519
+1106,university of edinburgh,social work and social policy,7,55.7,38.6,5.7,0,58.69,5.96353722951099
+1107,university of edinburgh,business and management studies,6,46.7,40,13.3,0,51.6,6.46124031007752
+1108,university of edinburgh,law,6,86.7,13.3,0,0,54.0,7.161111111111112
+1109,university of edinburgh,education,5,76,24,0,0,39.97,9.407055291468602
+1110,university of edinburgh,"art and design: history, practice and theory",5,58,42,0,0,43.0,8.325581395348838
+1111,university of edinburgh,anthropology and development studies,4,60,40,0,0,34.45,10.449927431059505
+1112,university of edinburgh,politics and international studies,4,50,50,0,0,34.05,10.279001468428783
+1113,university of edinburgh,theology and religious studies,4,40,50,10,0,26.6,12.406015037593985
+1114,university of edinburgh,english language and literature,4,30,60,10,0,34.9,9.169054441260746
+1115,university of edinburgh,"music, drama, dance and performing arts",3,46.7,13.3,40,0,17.3,17.728323699421967
+1116,university of edinburgh,philosophy,3,36.7,36.6,26.7,0,23.6,13.135593220338983
+1117,university of edinburgh,economics and econometrics,3,13.3,60,26.7,0,17.5,16.377142857142854
+1118,university of edinburgh,"sport and exercise sciences, leisure and tourism",3,40,50,10,0,23.8,13.865546218487394
+1119,university of edinburgh,classics,3,26.7,33.3,40,0,22.5,12.742222222222221
+1120,university of edinburgh,area studies,3,13.3,50,36.7,0,22.0,12.572727272727274
+1121,university of edinburgh,"geography, environmental studies and archaeology",2,0,70,30,0,14.7,18.367346938775512
+1122,university of edinburgh,"architecture, built environment and planning",1,55.7,21.4,22.9,0,29.8,11.167785234899329
+1123,university of edinburgh and sruc scotland s rural college,"agriculture, veterinary and food science",19,,,,,,
+1124,university of edinburgh heriot watt university,mathematical sciences,1,,,,,,
+1125,university of edinburgh heriotwatt university,mathematical sciences,9,,,,,,
+1126,university of edinburgh heriotwatt university,"architecture, built environment and planning",6,,,,,,
+1127,university of essex,business and management studies,6,20,53.3,13.4,13.3,50.46,5.548949663099485
+1128,university of essex,sociology,6,43.3,43.4,13.3,0,47.45,6.954689146469968
+1129,university of essex,law,4,20,60,20,0,28.35,10.582010582010582
+1130,university of essex,computer science and informatics,4,20,40,20,20,34.9,7.4498567335243555
+1131,university of essex,politics and international studies,4,80,10,10,0,29.95,12.353923205342237
+1132,university of essex,economics and econometrics,4,20,80,0,0,33.33,9.6009600960096
+1133,university of essex,history,3,50,36.7,13.3,0,18.2,18.500000000000004
+1134,university of essex,"psychology, psychiatry and neuroscience",3,53.3,46.7,0,0,21.0,16.823809523809523
+1135,university of essex,biological sciences,3,0,60,40,0,23.0,11.304347826086957
+1136,university of essex,english language and literature,3,26.7,73.3,0,0,17.0,19.21764705882353
+1137,university of essex,modern languages and linguistics,2,30,70,0,0,12.6,26.19047619047619
+1138,university of essex,"art and design: history, practice and theory",2,40,60,0,0,4.6,73.91304347826087
+1139,university of essex,"sport and exercise sciences, leisure and tourism",2,40,40,20,0,8.7,36.781609195402304
+1140,university of essex,philosophy,2,40,60,0,0,9.5,35.78947368421053
+1141,university of exeter,"geography, environmental studies and archaeology",7,13.3,53.4,26.6,6.7,51.8,5.276061776061775
+1142,university of exeter,"geography, environmental studies and archaeology",7,60,40,0,0,11.2,32.142857142857146
+1143,university of exeter,english language and literature,6,40,60,0,0,53.2,6.390977443609022
+1144,university of exeter,physics,5,24,68,8,0,40.2,7.860696517412935
+1145,university of exeter,biological sciences,5,50,50,0,0,54.58,6.412605349945035
+1146,university of exeter,history,5,40,44,16,0,41.53,7.801589212617385
+1147,university of exeter,earth systems and environmental sciences,4,20,80,0,0,34.7,9.221902017291066
+1148,university of exeter,business and management studies,4,23.3,63.4,13.3,0,49.05,6.320081549439348
+1149,university of exeter,general engineering,4,32,44,24,0,44.0,7.0
+1150,university of exeter,education,4,30,60,10,0,25.92,12.345679012345679
+1151,university of exeter,mathematical sciences,4,30,50,20,0,34.6,8.959537572254336
+1152,university of exeter,"psychology, psychiatry and neuroscience",4,40,40,20,0,32.3,9.907120743034056
+1153,university of exeter,modern languages and linguistics,4,10,50,0,40,32.0,7.1875
+1154,university of exeter,clinical medicine,3,80,20,0,0,24.5,15.510204081632653
+1155,university of exeter,"music, drama, dance and performing arts",3,33.3,53.4,13.3,0,15.86,20.1765447667087
+1156,university of exeter,politics and international studies,3,40,60,0,0,24.2,14.049586776859504
+1157,university of exeter,sociology,3,40,50,10,0,24.2,13.636363636363637
+1158,university of exeter,"public health, health services and primary care",3,40,60,0,0,24.85,13.682092555331991
+1159,university of exeter,classics,3,40,46.7,13.3,0,19.0,17.194736842105264
+1160,university of exeter,law,2,40,60,0,0,14.95,22.742474916387962
+1161,university of exeter,theology and religious studies,2,20,80,0,0,11.2,28.571428571428573
+1162,university of exeter,computer science and informatics,2,10,70,20,0,10.0,29.0
+1163,university of exeter,area studies,2,100,0,0,0,14.54,27.51031636863824
+1164,university of exeter,"sport and exercise sciences, leisure and tourism",1,53.3,46.7,0,0,23.3,15.163090128755364
+1165,university of exeter,economics and econometrics,1,13.3,60,13.4,13.3,24.5,11.155102040816328
+1166,university of glasgow,clinical medicine,19,76.8,16.9,2.1,0,177.4,2.041149943630214
+1167,university of glasgow,general engineering,9,51.1,40,8.9,0,84.0,4.0738095238095235
+1168,university of glasgow,biological sciences,7,38.6,55.7,5.7,0,60.34,5.517069937023533
+1169,university of glasgow,english language and literature,6,53.3,33.4,13.3,0,51.35,6.621226874391431
+1170,university of glasgow,"public health, health services and primary care",6,33.3,66.7,0,0,48.42,6.883519206939281
+1171,university of glasgow,history,5,66,34,0,0,43.8,8.356164383561644
+1172,university of glasgow,computer science and informatics,5,68,32,0,0,41.6,8.846153846153847
+1173,university of glasgow,modern languages and linguistics,5,50,23.3,0,26.7,22.0,13.48181818181818
+1174,university of glasgow,modern languages and linguistics,5,30,70,0,0,6.2,53.225806451612904
+1175,university of glasgow,education,5,40,60,0,0,37.5,9.066666666666666
+1176,university of glasgow,"agriculture, veterinary and food science",5,82,18,0,0,38.8,9.845360824742269
+1177,university of glasgow,mathematical sciences,5,32,68,0,0,43.0,7.72093023255814
+1178,university of glasgow,physics,5,42,58,0,0,44.9,7.616926503340758
+1179,university of glasgow,earth systems and environmental sciences,4,30,50,20,0,34.8,8.908045977011495
+1180,university of glasgow,"geography, environmental studies and archaeology",4,40,60,0,0,13.0,26.153846153846153
+1181,university of glasgow,"geography, environmental studies and archaeology",4,20,70,10,0,9.55,32.460732984293195
+1182,university of glasgow,social work and social policy,4,60,30,10,0,29.2,11.986301369863014
+1183,university of glasgow,"psychology, psychiatry and neuroscience",4,60,0,40,0,34.2,9.35672514619883
+1184,university of glasgow,business and management studies,4,34,26,40,0,39.83,7.381370826010545
+1185,university of glasgow,law,4,60,40,0,0,30.35,11.86161449752883
+1186,university of glasgow,"architecture, built environment and planning",3,63.3,36.7,0,0,24.6,14.768292682926829
+1187,university of glasgow,economics and econometrics,3,0,63.3,36.7,0,23.75,11.086315789473682
+1188,university of glasgow,politics and international studies,3,0,86.7,13.3,0,24.0,11.945833333333335
+1189,university of glasgow,"communication, cultural and media studies, library and information management",3,40,46.7,13.3,0,23.8,13.726890756302522
+1190,university of glasgow,"art and design: history, practice and theory",2,73.3,26.7,0,0,16.54,22.569528415961305
+1191,university of glasgow,area studies,2,0,80,20,0,10.8,25.925925925925924
+1192,university of glasgow,"allied health professions, dentistry, nursing and pharmacy",2,70,30,0,0,13.8,26.81159420289855
+1193,university of glasgow,classics,2,10,50,20,20,8.0,31.25
+1194,university of glasgow,theology and religious studies,2,40,50,10,0,10.86,30.386740331491715
+1195,university of glasgow,"music, drama, dance and performing arts",2,40,60,0,0,11.2,30.357142857142858
+1196,university of glasgow,philosophy,1,0,20,80,0,11.0,20.0
+1197,university of gloucestershire,"sport and exercise sciences, leisure and tourism",3,40,60,0,0,17.6,19.318181818181817
+1198,university of gloucestershire,history,2,0,20,60,20,4.8,41.66666666666667
+1199,university of gloucestershire,"geography, environmental studies and archaeology",2,0,20,80,0,11.1,19.81981981981982
+1200,university of gloucestershire,theology and religious studies,2,0,40,60,0,5.3,45.28301886792453
+1201,university of gloucestershire,"architecture, built environment and planning",2,0,50,50,0,8.2,30.487804878048784
+1202,university of gloucestershire,english language and literature,2,0,40,50,10,9.1,25.274725274725277
+1203,university of greenwich,business and management studies,4,10,70,0,0,28.7,8.710801393728223
+1204,university of greenwich,"agriculture, veterinary and food science",3,90,10,0,0,23.5,16.595744680851062
+1205,university of greenwich,history,2,0,20,60,20,6.7,29.850746268656717
+1206,university of greenwich,"architecture, built environment and planning",2,0,0,100,0,6.0,33.333333333333336
+1207,university of greenwich,english language and literature,2,0,60,40,0,8.0,32.5
+1208,university of greenwich,general engineering,2,40,20,40,0,14.0,21.428571428571427
+1209,university of greenwich,"aeronautical, mechanical, chemical and manufacturing engineering",2,30,70,0,0,9.0,36.666666666666664
+1210,university of greenwich,"allied health professions, dentistry, nursing and pharmacy",2,0,60,13.3,0,2.0,103.3
+1211,university of greenwich,"allied health professions, dentistry, nursing and pharmacy",2,0,50,50,0,9.6,26.041666666666668
+1212,university of greenwich,chemistry,2,0,80,20,0,14.4,19.444444444444443
+1213,university of greenwich,"art and design: history, practice and theory",2,0,0,50,50,7.2,20.833333333333332
+1214,university of greenwich,anthropology and development studies,2,20,80,0,0,8.7,36.781609195402304
+1215,university of greenwich,law,2,0,0,0,80,8.0,10.0
+1216,university of greenwich,"electrical and electronic engineering, metallurgy and materials",2,0,20,60,20,12.0,16.666666666666668
+1217,university of greenwich,computer science and informatics,2,20,40,40,0,14.2,19.71830985915493
+1218,university of greenwich,"psychology, psychiatry and neuroscience",2,0,20,80,0,11.5,19.130434782608695
+1219,university of greenwich,modern languages and linguistics,2,-,-,-,-,3.0,0.0
+1220,university of greenwich,education,2,0,0,10,50,10.0,7.0
+1221,university of greenwich,mathematical sciences,2,0,10,10,40,5.0,18.0
+1222,university of hertfordshire,"allied health professions, dentistry, nursing and pharmacy",5,0,90,10,0,18.4,15.760869565217392
+1223,university of hertfordshire,"allied health professions, dentistry, nursing and pharmacy",5,50,50,0,0,13.9,25.179856115107913
+1224,university of hertfordshire,physics,4,0,40,60,0,33.0,7.2727272727272725
+1225,university of hertfordshire,computer science and informatics,4,10,40,30,20,27.4,8.75912408759124
+1226,university of hertfordshire,"psychology, psychiatry and neuroscience",2,20,40,40,0,12.2,22.95081967213115
+1227,university of hertfordshire,business and management studies,2,0,0,80,20,14.1,12.76595744680851
+1228,university of hertfordshire,philosophy,2,30,50,20,0,9.5,32.63157894736842
+1229,university of hertfordshire,"agriculture, veterinary and food science",2,0,0,60,40,11.6,13.793103448275863
+1230,university of hertfordshire,"music, drama, dance and performing arts",2,20,30,50,0,5.3,50.943396226415096
+1231,university of hertfordshire,history,2,100,0,0,0,12.0,33.333333333333336
+1232,university of hertfordshire,"art and design: history, practice and theory",2,0,40,60,0,11.45,20.960698689956335
+1233,university of hertfordshire,english language and literature,2,0,70,30,0,8.0,33.75
+1234,university of hertfordshire,general engineering,1,0,10,70,20,14.8,12.837837837837837
+1235,university of highlands and islands,earth systems and environmental sciences,4,,,,,,
+1236,university of highlands and islands,area studies,2,,,,,,
+1237,university of highlands and islands,history,2,,,,,,
+1238,university of highlands and islands,"geography, environmental studies and archaeology",2,,,,,,
+1239,university of highlands and islands,modern languages and linguistics,1,,,,,,
+1240,university of huddersfield,social work and social policy,5,48,44,8,0,41.8,8.133971291866029
+1241,university of huddersfield,general engineering,4,20,30,30,20,34.8,7.183908045977012
+1242,university of huddersfield,"music, drama, dance and performing arts",3,90,10,0,0,17.5,22.285714285714285
+1243,university of huddersfield,business and management studies,3,36.7,63.3,0,0,18.8,17.909574468085104
+1244,university of huddersfield,english language and literature,3,0,40,46.7,13.3,16.65,13.615615615615617
+1245,university of huddersfield,history,2,20,50,30,0,14.25,20.350877192982455
+1246,university of huddersfield,physics,2,0,0,80,20,12.0,15.0
+1247,university of huddersfield,chemistry,2,0,70,30,0,14.6,18.493150684931507
+1248,university of huddersfield,biological sciences,2,0,0,60,0,13.0,9.23076923076923
+1249,university of huddersfield,computer science and informatics,2,0,40,60,0,14.4,16.666666666666668
+1250,university of huddersfield,"art and design: history, practice and theory",2,0,50,10,40,13.95,15.053763440860216
+1251,university of huddersfield,"allied health professions, dentistry, nursing and pharmacy",2,20,80,0,0,10.2,31.372549019607845
+1252,university of huddersfield,education,2,40,0,50,10,11.75,22.97872340425532
+1253,university of hull,business and management studies,5,0,60,32,8,43.75,5.76
+1254,university of hull,history,4,10,80,10,0,25.1,11.952191235059761
+1255,university of hull,"geography, environmental studies and archaeology",4,70,30,0,0,34.5,10.72463768115942
+1256,university of hull,"allied health professions, dentistry, nursing and pharmacy",4,70,30,0,0,34.3,10.78717201166181
+1257,university of hull,english language and literature,4,30,60,10,0,29.43,10.873258579680599
+1258,university of hull,law,3,0,63.3,36.7,0,16.25,16.20307692307692
+1259,university of hull,chemistry,3,26.7,50,23.3,0,24.0,12.641666666666667
+1260,university of hull,"psychology, psychiatry and neuroscience",3,26.7,73.3,0,0,21.8,14.986238532110091
+1261,university of hull,"music, drama, dance and performing arts",3,13.3,23.4,63.3,0,21.15,11.82033096926714
+1262,university of hull,social work and social policy,3,26.7,13.3,60,0,24.5,10.885714285714286
+1263,university of hull,politics and international studies,3,0,76.7,23.3,0,19.2,14.411458333333336
+1264,university of hull,"sport and exercise sciences, leisure and tourism",2,0,90,10,0,11.0,26.363636363636363
+1265,university of hull,computer science and informatics,2,80,20,0,0,14.8,25.675675675675674
+1266,university of hull,philosophy,2,0,50,50,0,7.2,34.72222222222222
+1267,university of hull,education,2,0,20,60,20,13.6,14.705882352941178
+1268,university of kent,social work and social policy,6,93.3,6.7,0,0,54.58,7.205936240381092
+1269,university of kent,english language and literature,5,36,48,16,0,38.1,8.398950131233596
+1270,university of kent,law,5,52,24,24,0,43.6,7.522935779816514
+1271,university of kent,business and management studies,5,36,40,24,0,43.3,7.205542725173211
+1272,university of kent,"music, drama, dance and performing arts",5,36,56,8,0,38.0,8.631578947368421
+1273,university of kent,history,4,40,40,20,0,31.4,10.191082802547772
+1274,university of kent,computer science and informatics,4,30,70,0,0,29.1,11.340206185567009
+1275,university of kent,anthropology and development studies,4,10,50,40,0,27.27,9.900990099009901
+1276,university of kent,mathematical sciences,4,20,50,30,0,33.08,8.766626360338574
+1277,university of kent,"psychology, psychiatry and neuroscience",4,40,60,0,0,33.13,10.262601871415635
+1278,university of kent,chemistry,3,13.3,76.7,10,0,17.0,17.841176470588238
+1279,university of kent,general engineering,3,26.7,36.6,36.7,0,24.0,12.083333333333334
+1280,university of kent,politics and international studies,3,40,60,0,0,30.75,11.05691056910569
+1281,university of kent,modern languages and linguistics,3,60,26.7,13.3,0,24.7,14.036437246963565
+1282,university of kent,economics and econometrics,3,13.3,50,10,26.7,21.9,11.410958904109588
+1283,university of kent,"sport and exercise sciences, leisure and tourism",2,40,20,20,20,11.0,25.454545454545453
+1284,university of kent,"architecture, built environment and planning",2,0,0,60,40,11.4,14.035087719298245
+1285,university of kent,biological sciences,2,26.7,60,13.3,0,24.2,12.950413223140497
+1286,university of kent,theology and religious studies,2,60,40,0,0,7.88,45.68527918781726
+1287,university of kent,classics,2,60,40,0,0,12.4,29.032258064516128
+1288,university of kent,physics,2,60,40,0,0,5.0,72.0
+1289,university of kent,philosophy,1,40,50,10,0,13.2,25.0
+1290,university of kent and university of greenwich,"allied health professions, dentistry, nursing and pharmacy",3,,,,,,
+1291,university of lancaster,education,2,,,,,,
+1292,university of leeds,clinical medicine,10,72,28,0,0,94.2,3.949044585987261
+1293,university of leeds,earth systems and environmental sciences,9,46.7,48.9,4.4,0,79.2,4.321969696969697
+1294,university of leeds,modern languages and linguistics,7,40,27.1,10,22.9,63.1,4.503961965134707
+1295,university of leeds,"geography, environmental studies and archaeology",6,33.3,40,26.7,0,48.9,6.269938650306748
+1296,university of leeds,business and management studies,6,60,35,5,0,73.19,4.850389397458669
+1297,university of leeds,"art and design: history, practice and theory",6,60,40,0,0,15.6,23.076923076923077
+1298,university of leeds,"art and design: history, practice and theory",6,63.3,36.7,0,0,21.05,17.258907363420427
+1299,university of leeds,"psychology, psychiatry and neuroscience",5,36,64,0,0,44.05,7.627695800227015
+1300,university of leeds,civil and construction engineering,5,28,64,8,0,44.65,7.166853303471445
+1301,university of leeds,"allied health professions, dentistry, nursing and pharmacy",5,84,16,0,0,44.4,8.64864864864865
+1302,university of leeds,law,4,80,20,0,0,29.0,13.10344827586207
+1303,university of leeds,english language and literature,4,50,50,0,0,31.1,11.254019292604502
+1304,university of leeds,philosophy,4,30,60,10,0,25.0,12.8
+1305,university of leeds,social work and social policy,4,60,40,0,0,32.6,11.042944785276074
+1306,university of leeds,"music, drama, dance and performing arts",4,70,30,0,0,14.9,24.83221476510067
+1307,university of leeds,"music, drama, dance and performing arts",4,80,20,0,0,14.0,27.142857142857142
+1308,university of leeds,education,4,60,30,10,0,32.1,10.903426791277258
+1309,university of leeds,history,4,50,50,0,0,29.7,11.784511784511785
+1310,university of leeds,"aeronautical, mechanical, chemical and manufacturing engineering",4,60,40,0,0,31.55,11.410459587955625
+1311,university of leeds,general engineering,4,18,50,32,0,44.8,6.383928571428572
+1312,university of leeds,"public health, health services and primary care",4,50,40,10,0,26.2,12.977099236641221
+1313,university of leeds,chemistry,4,50,50,0,0,34.4,10.174418604651164
+1314,university of leeds,biological sciences,3,71.4,28.6,0,0,60.9,6.098522167487685
+1315,university of leeds,"electrical and electronic engineering, metallurgy and materials",3,53.3,46.7,0,0,20.0,17.665
+1316,university of leeds,physics,3,66.7,33.3,0,0,24.0,15.279166666666667
+1317,university of leeds,"communication, cultural and media studies, library and information management",3,63.3,36.7,0,0,24.8,14.649193548387096
+1318,university of leeds,"agriculture, veterinary and food science",2,60,40,0,0,14.4,25.0
+1319,university of leeds,theology and religious studies,2,20,60,20,0,10.8,27.777777777777775
+1320,university of leeds,computer science and informatics,2,73.3,26.7,0,0,24.97,14.949939927913496
+1321,university of leeds,"sport and exercise sciences, leisure and tourism",2,60,40,0,0,12.5,28.8
+1322,university of leeds,politics and international studies,2,66.7,33.3,0,0,24.0,15.279166666666667
+1323,university of leeds,classics,2,0,100,0,0,6.0,50.0
+1324,university of leeds,mathematical sciences,1,56.7,30,13.3,0,53.0,6.4792452830188685
+1325,university of leicester,clinical medicine,8,65,35,0,0,72.1,5.0624133148405
+1326,university of leicester,business and management studies,7,11.4,54.3,28.6,5.7,59.6,4.553691275167785
+1327,university of leicester,physics,6,43.3,43.4,13.3,0,49.33,6.689641191972431
+1328,university of leicester,"geography, environmental studies and archaeology",6,73.3,26.7,0,0,19.4,19.24226804123711
+1329,university of leicester,"geography, environmental studies and archaeology",6,13.3,63.4,23.3,0,24.39,11.890118901189012
+1330,university of leicester,law,5,16,58,26,0,39.53,7.336200354161396
+1331,university of leicester,"communication, cultural and media studies, library and information management",5,53.3,33.4,13.3,0,22.0,15.454545454545455
+1332,university of leicester,"communication, cultural and media studies, library and information management",5,100,0,0,0,10.8,37.03703703703704
+1333,university of leicester,english language and literature,4,30,60,10,0,28.4,11.267605633802818
+1334,university of leicester,history,4,30,40,30,0,27.0,11.11111111111111
+1335,university of leicester,biological sciences,4,48,32,20,0,37.4,8.770053475935828
+1336,university of leicester,"psychology, psychiatry and neuroscience",4,0,100,0,0,34.4,8.720930232558139
+1337,university of leicester,computer science and informatics,3,0,40,46.7,13.3,20.0,11.335
+1338,university of leicester,general engineering,3,0,100,0,0,30.0,10.0
+1339,university of leicester,earth systems and environmental sciences,3,13.3,86.7,0,0,21.8,14.371559633027523
+1340,university of leicester,economics and econometrics,3,0,26.7,33.3,40,22.4,8.334821428571429
+1341,university of leicester,"public health, health services and primary care",3,66.7,33.3,0,0,24.2,15.152892561983471
+1342,university of leicester,chemistry,3,36.7,50,13.3,0,21.4,15.112149532710283
+1343,university of leicester,education,3,0,66.7,33.3,0,24.1,11.066390041493777
+1344,university of leicester,mathematical sciences,3,13.3,36.7,50,0,23.6,11.15677966101695
+1345,university of leicester,"art and design: history, practice and theory",2,50,50,0,0,6.2,56.45161290322581
+1346,university of leicester,modern languages and linguistics,2,0,60,40,0,12.0,21.666666666666668
+1347,university of leicester,politics and international studies,2,0,80,20,0,18.0,15.555555555555555
+1348,university of leicester,social work and social policy,2,0,100,0,0,12.0,25.0
+1349,university of leicester,sociology,1,0,0,100,0,11.5,17.391304347826086
+1350,university of lincoln,"allied health professions, dentistry, nursing and pharmacy",3,40,36.7,23.3,0,19.4,16.32474226804124
+1351,university of lincoln,history,2,0,40,60,0,11.0,21.818181818181817
+1352,university of lincoln,"art and design: history, practice and theory",2,20,60,10,10,13.1,22.137404580152673
+1353,university of lincoln,general engineering,2,0,30,30,0,12.0,12.5
+1354,university of lincoln,law,2,0,60,40,0,4.2,61.904761904761905
+1355,university of lincoln,social work and social policy,2,0,10,70,20,11.2,16.964285714285715
+1356,university of lincoln,politics and international studies,2,0,10,50,40,7.3,23.28767123287671
+1357,university of lincoln,"architecture, built environment and planning",2,0,0,20,80,6.2,19.35483870967742
+1358,university of lincoln,computer science and informatics,2,0,0,10,50,14.5,4.827586206896552
+1359,university of lincoln,"communication, cultural and media studies, library and information management",2,0,100,0,0,6.4,46.875
+1360,university of lincoln,"music, drama, dance and performing arts",2,0,10,50,0,11.2,11.607142857142858
+1361,university of lincoln,"sport and exercise sciences, leisure and tourism",2,0,50,50,0,7.0,35.714285714285715
+1362,university of lincoln,"psychology, psychiatry and neuroscience",2,40,20,40,0,12.8,23.4375
+1363,university of lincoln,"agriculture, veterinary and food science",2,40,20,30,10,14.0,20.714285714285715
+1364,university of lincoln,education,2,20,20,10,50,6.6,31.81818181818182
+1365,university of lincoln,business and management studies,2,30,70,0,0,9.4,35.1063829787234
+1366,university of lincoln,english language and literature,2,0,40,60,0,11.0,21.818181818181817
+1367,university of liverpool,"geography, environmental studies and archaeology",7,10,50,30,10,33.0,7.878787878787879
+1368,university of liverpool,"geography, environmental studies and archaeology",7,36.7,36.6,26.7,0,16.0,19.375
+1369,university of liverpool,"agriculture, veterinary and food science",6,60,33.3,6.7,0,54.64,6.465959004392386
+1370,university of liverpool,business and management studies,6,56.7,43.3,0,0,45.15,7.900332225913621
+1371,university of liverpool,mathematical sciences,5,18,74,8,0,39.63,7.822356800403734
+1372,university of liverpool,english language and literature,4,30,70,0,0,28.3,11.66077738515901
+1373,university of liverpool,physics,4,10,70,20,0,34.3,8.454810495626823
+1374,university of liverpool,"public health, health services and primary care",4,90,10,0,0,31.3,12.460063897763577
+1375,university of liverpool,"psychology, psychiatry and neuroscience",4,80,20,0,0,33.0,11.515151515151516
+1376,university of liverpool,law,3,0,100,0,0,20.0,15.0
+1377,university of liverpool,modern languages and linguistics,3,20,40,26.7,13.3,21.0,12.7
+1378,university of liverpool,"architecture, built environment and planning",3,26.7,73.3,0,0,22.2,14.716216216216216
+1379,university of liverpool,history,3,46.7,40,13.3,0,23.0,14.495652173913046
+1380,university of liverpool,"electrical and electronic engineering, metallurgy and materials",3,0,100,0,0,24.0,12.5
+1381,university of liverpool,computer science and informatics,3,40,60,0,0,24.0,14.166666666666666
+1382,university of liverpool,biological sciences,3,0,63.3,36.7,0,18.0,14.627777777777775
+1383,university of liverpool,social work and social policy,3,26.7,73.3,0,0,18.0,18.15
+1384,university of liverpool,philosophy,2,0,60,40,0,8.0,32.5
+1385,university of liverpool,"music, drama, dance and performing arts",2,40,50,10,0,9.0,36.666666666666664
+1386,university of liverpool,politics and international studies,2,50,10,20,20,5.0,58.0
+1387,university of liverpool,classics,2,0,40,40,20,8.5,25.88235294117647
+1388,university of liverpool,chemistry,2,60,40,0,0,34.0,10.588235294117647
+1389,university of liverpool,"communication, cultural and media studies, library and information management",2,40,50,10,0,7.5,44.0
+1390,university of liverpool,earth systems and environmental sciences,1,0,86.7,13.3,0,24.8,11.560483870967744
+1391,university of liverpool,general engineering,1,20,70,10,0,34.0,9.117647058823529
+1392,university of liverpool and liverpool school of tropical medicine,clinical medicine,18,,,,,,
+1393,university of manchester,clinical medicine,15,61.3,33.4,5.3,0,136.18,2.614187105301806
+1394,university of manchester,biological sciences,14,36.7,42,21.3,0,144.55,2.1819439640262885
+1395,university of manchester,business and management studies,13,53.8,27.7,12.3,6.2,121.63,2.705746937433199
+1396,university of manchester,"allied health professions, dentistry, nursing and pharmacy",12,86.7,13.3,0,0,112.65,3.4327563249001334
+1397,university of manchester,"electrical and electronic engineering, metallurgy and materials",10,52,16,32,0,44.0,7.2727272727272725
+1398,university of manchester,"electrical and electronic engineering, metallurgy and materials",10,60,33.3,6.7,0,51.8,6.82046332046332
+1399,university of manchester,"psychology, psychiatry and neuroscience",8,60,40,0,0,67.7,5.317577548005908
+1400,university of manchester,modern languages and linguistics,8,45,40,15,0,72.5,4.551724137931035
+1401,university of manchester,"aeronautical, mechanical, chemical and manufacturing engineering",8,60,40,0,0,33.9,10.619469026548673
+1402,university of manchester,"aeronautical, mechanical, chemical and manufacturing engineering",8,60,40,0,0,34.38,10.471204188481675
+1403,university of manchester,physics,7,82.9,17.1,0,0,64.9,5.899845916795069
+1404,university of manchester,anthropology and development studies,7,50,50,0,0,15.94,21.957340025094105
+1405,university of manchester,anthropology and development studies,7,70,30,0,0,26.25,14.095238095238095
+1406,university of manchester,"geography, environmental studies and archaeology",6,50,40,10,0,27.2,12.5
+1407,university of manchester,"geography, environmental studies and archaeology",6,0,90,10,0,10.0,29.0
+1408,university of manchester,sociology,6,66.7,26.6,6.7,0,48.6,7.407407407407407
+1409,university of manchester,law,5,36,64,0,0,40.8,8.23529411764706
+1410,university of manchester,politics and international studies,5,16,76,8,0,36.66,8.40152755046372
+1411,university of manchester,computer science and informatics,5,76,24,0,0,44.86,8.381631743201071
+1412,university of manchester,mathematical sciences,5,53.3,46.7,0,0,54.4,6.494485294117648
+1413,university of manchester,chemistry,5,50,50,0,0,52.4,6.6793893129771
+1414,university of manchester,education,4,40,60,0,0,33.1,10.271903323262839
+1415,university of manchester,economics and econometrics,4,40,50,10,0,33.2,9.939759036144578
+1416,university of manchester,"music, drama, dance and performing arts",4,50,50,0,0,14.0,25.0
+1417,university of manchester,"music, drama, dance and performing arts",4,80,20,0,0,12.5,30.4
+1418,university of manchester,earth systems and environmental sciences,4,44,56,0,0,42.13,8.165202943270828
+1419,university of manchester,"public health, health services and primary care",4,10,50,40,0,33.33,8.1008100810081
+1420,university of manchester,english language and literature,4,50,50,0,0,34.25,10.218978102189782
+1421,university of manchester,history,4,50,30,20,0,25.2,13.095238095238095
+1422,university of manchester,civil and construction engineering,3,50,50,0,0,21.85,16.018306636155604
+1423,university of manchester,"architecture, built environment and planning",3,36.7,63.3,0,0,17.6,19.130681818181817
+1424,university of manchester,theology and religious studies,2,50,50,0,0,14.5,24.137931034482758
+1425,university of manchester,"art and design: history, practice and theory",2,20,80,0,0,11.5,27.82608695652174
+1426,university of manchester,philosophy,2,40,40,20,0,12.7,25.19685039370079
+1427,university of manchester,classics,2,20,60,20,0,14.0,21.428571428571427
+1428,university of northampton,history,2,0,50,50,0,8.0,31.25
+1429,university of northampton,"geography, environmental studies and archaeology",2,0,40,10,50,9.5,20.0
+1430,university of northampton,education,2,0,80,20,0,14.6,19.178082191780824
+1431,university of northampton,"allied health professions, dentistry, nursing and pharmacy",2,0,0,60,40,13.4,11.940298507462686
+1432,university of northampton,"psychology, psychiatry and neuroscience",2,0,0,40,20,8.0,12.5
+1433,university of northampton,english language and literature,2,0,70,30,0,12.0,22.5
+1434,university of northampton,business and management studies,2,0,20,60,20,11.8,16.94915254237288
+1435,university of northampton,"art and design: history, practice and theory",2,20,20,60,0,10.2,25.490196078431374
+1436,university of northampton,"aeronautical, mechanical, chemical and manufacturing engineering",1,0,40,40,20,6.75,32.592592592592595
+1437,university of northumbria at newcastle,"art and design: history, practice and theory",5,26,42,0,32,40.7,6.437346437346437
+1438,university of northumbria at newcastle,"communication, cultural and media studies, library and information management",4,0,60,40,0,13.6,19.11764705882353
+1439,university of northumbria at newcastle,"communication, cultural and media studies, library and information management",4,0,90,10,0,7.4,39.189189189189186
+1440,university of northumbria at newcastle,history,3,0,36.7,50,13.3,20.0,11.170000000000002
+1441,university of northumbria at newcastle,business and management studies,3,36.7,23.3,40,0,23.2,12.788793103448278
+1442,university of northumbria at newcastle,"psychology, psychiatry and neuroscience",3,73.3,26.7,0,0,19.3,19.341968911917096
+1443,university of northumbria at newcastle,"architecture, built environment and planning",3,26.7,10,63.3,0,18.2,14.472527472527473
+1444,university of northumbria at newcastle,"geography, environmental studies and archaeology",3,0,46.7,53.3,0,19.0,12.98421052631579
+1445,university of northumbria at newcastle,general engineering,3,0,36.7,63.3,0,23.0,10.291304347826086
+1446,university of northumbria at newcastle,english language and literature,3,0,50,40,10,29.0,8.275862068965518
+1447,university of northumbria at newcastle,law,2,0,30,70,0,13.7,16.78832116788321
+1448,university of northumbria at newcastle,"sport and exercise sciences, leisure and tourism",2,0,20,60,20,13.8,14.492753623188404
+1449,university of northumbria at newcastle,computer science and informatics,2,0,20,40,40,13.0,13.846153846153847
+1450,university of northumbria at newcastle,social work and social policy,2,0,40,40,20,30.6,7.18954248366013
+1451,university of northumbria at newcastle,"allied health professions, dentistry, nursing and pharmacy",2,60,32,8,0,44.2,7.963800904977375
+1452,university of northumbria at newcastle,mathematical sciences,2,0,30,50,20,14.0,15.0
+1453,university of nottingham,"agriculture, veterinary and food science",12,46.7,36.6,10,0,111.45,2.84073575594437
+1454,university of nottingham,clinical medicine,11,71.8,28.2,0,0,103.7,3.585342333654773
+1455,university of nottingham,business and management studies,10,52,32,16,0,89.2,3.7668161434977576
+1456,university of nottingham,biological sciences,10,44,48,8,0,90.86,3.6979969183359014
+1457,university of nottingham,"allied health professions, dentistry, nursing and pharmacy",8,100,0,0,0,44.1,9.070294784580499
+1458,university of nottingham,"allied health professions, dentistry, nursing and pharmacy",8,84,16,0,0,37.8,10.15873015873016
+1459,university of nottingham,modern languages and linguistics,7,44.3,38.6,17.1,0,57.7,5.670710571923743
+1460,university of nottingham,general engineering,7,47.5,42.5,10,0,149.1,2.263581488933602
+1461,university of nottingham,area studies,6,63.3,36.7,0,0,19.5,18.630769230769232
+1462,university of nottingham,area studies,6,10,76.7,13.3,0,22.0,13.486363636363638
+1463,university of nottingham,physics,6,73.3,26.7,0,0,54.56,6.842008797653958
+1464,university of nottingham,"psychology, psychiatry and neuroscience",6,60,13.3,26.7,0,53.2,6.265037593984961
+1465,university of nottingham,"geography, environmental studies and archaeology",6,0,90,10,0,13.0,22.307692307692307
+1466,university of nottingham,"geography, environmental studies and archaeology",6,8,36,40,16,40.9,5.770171149144255
+1467,university of nottingham,law,6,53.3,46.7,0,0,45.53,7.759718866681309
+1468,university of nottingham,english language and literature,5,60,32,8,0,41.95,8.39094159713945
+1469,university of nottingham,mathematical sciences,5,30,63.3,6.7,0,54.85,5.894257064721968
+1470,university of nottingham,economics and econometrics,5,18,74,8,0,35.0,8.857142857142858
+1471,university of nottingham,social work and social policy,4,60,40,0,0,33.0,10.909090909090908
+1472,university of nottingham,politics and international studies,4,30,50,20,0,33.3,9.30930930930931
+1473,university of nottingham,"public health, health services and primary care",4,80,20,0,0,33.02,11.50817686250757
+1474,university of nottingham,history,4,40,20,40,0,29.0,10.344827586206897
+1475,university of nottingham,"communication, cultural and media studies, library and information management",3,26.7,60,13.3,0,16.0,19.587500000000002
+1476,university of nottingham,education,3,100,0,0,0,24.6,16.260162601626014
+1477,university of nottingham,theology and religious studies,3,13.3,73.4,13.3,0,15.71,19.09611712285169
+1478,university of nottingham,"architecture, built environment and planning",3,0,100,0,0,24.0,12.5
+1479,university of nottingham,chemistry,3,26,66,8,0,42.0,7.571428571428571
+1480,university of nottingham,"music, drama, dance and performing arts",2,20,80,0,0,10.5,30.476190476190474
+1481,university of nottingham,computer science and informatics,2,48,52,0,0,42.85,8.121353558926488
+1482,university of nottingham,philosophy,2,10,70,20,0,13.0,22.307692307692307
+1483,university of nottingham,"art and design: history, practice and theory",2,0,30,30,0,9.0,16.666666666666668
+1484,university of nottingham,classics,2,40,60,0,0,14.0,24.285714285714285
+1485,university of nottingham archaeology,"geography, environmental studies and archaeology",1,,,,,,
+1486,university of oxford,clinical medicine,25,82.4,17.6,0,0,238.51,1.6032870739172365
+1487,university of oxford,biological sciences,23,61.7,36.6,1.7,0,223.8,1.6085790884718498
+1488,university of oxford,history,14,44.3,47.1,5.7,2.9,130.05,2.559015763168012
+1489,university of oxford,modern languages and linguistics,13,24.6,37.7,19.2,12.3,116.75,2.2458244111349037
+1490,university of oxford,mathematical sciences,13,87.5,12.5,0,0,148.6,2.607671601615074
+1491,university of oxford,anthropology and development studies,12,34.3,60,5.7,0,55.8,5.888888888888888
+1492,university of oxford,anthropology and development studies,12,60,32,8,0,44.13,7.976433265352368
+1493,university of oxford,physics,12,41.5,43.1,15.4,0,124.7,2.615076182838813
+1494,university of oxford,law,12,60,33.3,6.7,0,108.88,3.2448567229977954
+1495,university of oxford,"psychology, psychiatry and neuroscience",11,85.5,14.5,0,0,98.3,3.9216683621566633
+1496,university of oxford,english language and literature,10,60,40,0,0,87.79,4.100694839958993
+1497,university of oxford,"geography, environmental studies and archaeology",10,40,60,0,0,33.33,10.201020102010201
+1498,university of oxford,"geography, environmental studies and archaeology",10,36.7,43.3,20,0,53.85,5.8811513463324046
+1499,university of oxford,chemistry,9,55.6,35.5,8.9,0,83.9,4.132300357568534
+1500,university of oxford,economics and econometrics,9,64.4,22.3,13.3,0,83.9,4.184743742550656
+1501,university of oxford,classics,8,65,30,5,0,68.65,5.243991260014567
+1502,university of oxford,philosophy,8,60,20,20,0,71.5,4.755244755244755
+1503,university of oxford,area studies,8,40,35,15,10,71.1,4.289732770745429
+1504,university of oxford,computer science and informatics,7,60,20,10,0,73.5,4.35374149659864
+1505,university of oxford,politics and international studies,7,86.7,13.3,0,0,76.65,5.045009784735813
+1506,university of oxford,"public health, health services and primary care",6,90,10,0,0,47.7,8.176100628930817
+1507,university of oxford,education,5,84,16,0,0,39.22,9.790922998470169
+1508,university of oxford,business and management studies,5,44,48,8,0,42.1,7.980997624703088
+1509,university of oxford,earth systems and environmental sciences,5,18,66,16,0,36.45,8.285322359396433
+1510,university of oxford,general engineering,5,84,12,4,0,93.79,4.051604648683228
+1511,university of oxford,sociology,4,60,30,10,0,32.85,10.6544901065449
+1512,university of oxford,theology and religious studies,4,40,20,30,10,32.7,8.868501529051986
+1513,university of oxford,"music, drama, dance and performing arts",3,36.7,63.3,0,0,20.25,16.62716049382716
+1514,university of oxford,"art and design: history, practice and theory",2,20,60,20,0,9.0,33.333333333333336
+1515,university of oxford,"electrical and electronic engineering, metallurgy and materials",2,90,10,0,0,34.12,11.430246189917938
+1516,university of oxford department of social policy and intervention,social work and social policy,4,,,,,,
+1517,university of plymouth,"agriculture, veterinary and food science",3,40,23.3,36.7,0,24.45,12.404907975460123
+1518,university of plymouth,"psychology, psychiatry and neuroscience",3,40,40,20,0,30.8,10.38961038961039
+1519,university of portsmouth,business and management studies,5,58,42,0,0,41.4,8.647342995169083
+1520,university of portsmouth,area studies,4,40,44,16,0,39.4,8.223350253807107
+1521,university of portsmouth,earth systems and environmental sciences,4,10,90,0,0,25.73,12.048192771084338
+1522,university of portsmouth,physics,3,13.3,50,36.7,0,16.3,16.969325153374236
+1523,university of portsmouth,"psychology, psychiatry and neuroscience",3,53.3,46.7,0,0,19.9,17.753768844221106
+1524,university of portsmouth,social work and social policy,3,13.3,13.4,73.3,0,23.1,10.38961038961039
+1525,university of portsmouth,"allied health professions, dentistry, nursing and pharmacy",3,46.7,53.3,0,0,23.8,14.567226890756302
+1526,university of portsmouth,"aeronautical, mechanical, chemical and manufacturing engineering",3,0,50,50,0,18.0,13.88888888888889
+1527,university of portsmouth,"communication, cultural and media studies, library and information management",2,60,40,0,0,11.0,32.72727272727273
+1528,university of portsmouth,"public health, health services and primary care",2,10,70,20,0,8.3,34.93975903614457
+1529,university of portsmouth,computer science and informatics,2,40,60,0,0,13.0,26.153846153846153
+1530,university of portsmouth,"geography, environmental studies and archaeology",2,20,40,40,0,11.0,25.454545454545453
+1531,university of portsmouth,english language and literature,2,0,30,70,0,12.5,18.4
+1532,university of portsmouth,mathematical sciences,2,0,80,20,0,11.0,25.454545454545453
+1533,university of portsmouth,"sport and exercise sciences, leisure and tourism",1,50,50,0,0,7.5,46.666666666666664
+1534,university of reading,earth systems and environmental sciences,9,51.1,48.9,0,0,75.68,4.639270613107822
+1535,university of reading,"agriculture, veterinary and food science",8,85,15,0,0,73.0,5.273972602739726
+1536,university of reading,"geography, environmental studies and archaeology",6,0,86.7,13.3,0,19.0,15.089473684210528
+1537,university of reading,"geography, environmental studies and archaeology",6,0,50,50,0,21.8,11.46788990825688
+1538,university of reading,business and management studies,5,60,40,0,0,40.0,9.0
+1539,university of reading,"psychology, psychiatry and neuroscience",5,68,32,0,0,40.15,9.16562889165629
+1540,university of reading,"art and design: history, practice and theory",4,20,50,30,0,11.4,25.43859649122807
+1541,university of reading,"art and design: history, practice and theory",4,70,30,0,0,8.2,45.1219512195122
+1542,university of reading,english language and literature,4,10,60,30,0,27.0,10.37037037037037
+1543,university of reading,"architecture, built environment and planning",4,70,30,0,0,34.9,10.601719197707737
+1544,university of reading,law,4,0,60,40,0,26.2,9.923664122137405
+1545,university of reading,mathematical sciences,4,10,90,0,0,26.5,11.69811320754717
+1546,university of reading,"electrical and electronic engineering, metallurgy and materials",3,13.3,36.7,36.7,13.3,17.2,14.534883720930235
+1547,university of reading,politics and international studies,3,13.3,66.7,20,0,16.0,18.33125
+1548,university of reading,biological sciences,3,26.7,46.6,26.7,0,20.6,14.563106796116504
+1549,university of reading,"allied health professions, dentistry, nursing and pharmacy",3,0,50,50,0,23.2,10.775862068965518
+1550,university of reading,education,3,53.3,10,36.7,0,15.6,20.294871794871796
+1551,university of reading,modern languages and linguistics,3,80,20,0,0,21.71,17.50345462920313
+1552,university of reading,chemistry,3,0,50,50,0,22.0,11.363636363636363
+1553,university of reading,history,3,13.3,73.4,13.3,0,16.2,18.518518518518523
+1554,university of reading,"music, drama, dance and performing arts",2,0,70,30,0,10.0,27.0
+1555,university of reading,philosophy,2,0,20,80,0,11.2,19.642857142857142
+1556,university of reading,classics,2,30,70,0,0,12.5,26.4
+1557,university of roehampton,"music, drama, dance and performing arts",4,,,,,,
+1558,university of roehampton,history,2,,,,,,
+1559,university of roehampton,"communication, cultural and media studies, library and information management",2,,,,,,
+1560,university of roehampton,theology and religious studies,2,,,,,,
+1561,university of roehampton,education,2,,,,,,
+1562,university of roehampton,modern languages and linguistics,2,,,,,,
+1563,university of roehampton,"allied health professions, dentistry, nursing and pharmacy",2,,,,,,
+1564,university of roehampton,"psychology, psychiatry and neuroscience",2,,,,,,
+1565,university of roehampton,anthropology and development studies,2,,,,,,
+1566,university of roehampton,business and management studies,2,,,,,,
+1567,university of roehampton,english language and literature,2,,,,,,
+1568,university of roehampton,sociology,2,,,,,,
+1569,university of salford,"architecture, built environment and planning",6,13.3,73.4,13.3,0,48.8,6.147540983606559
+1570,university of salford,"allied health professions, dentistry, nursing and pharmacy",5,8,58,34,0,42.1,6.5083135391923985
+1571,university of salford,"communication, cultural and media studies, library and information management",3,13.3,50,36.7,0,16.8,16.464285714285715
+1572,university of salford,business and management studies,3,40,46.7,13.3,0,17.0,19.21764705882353
+1573,university of salford,biological sciences,3,0,53.3,46.7,0,24.2,10.46694214876033
+1574,university of salford,"electrical and electronic engineering, metallurgy and materials",3,0,13.3,46.7,26.7,15.55,10.289389067524116
+1575,university of salford,modern languages and linguistics,2,0,0,80,20,10.6,16.9811320754717
+1576,university of salford,"music, drama, dance and performing arts",2,0,0,100,0,11.8,16.94915254237288
+1577,university of salford,computer science and informatics,2,0,90,10,0,13.0,22.307692307692307
+1578,university of salford,"art and design: history, practice and theory",2,40,40,20,0,9.6,33.333333333333336
+1579,university of salford,"geography, environmental studies and archaeology",2,20,20,60,0,12.2,21.311475409836067
+1580,university of salford,social work and social policy,2,50,50,0,0,9.5,36.8421052631579
+1581,university of salford,english language and literature,2,0,40,60,0,11.2,21.42857142857143
+1582,university of sheffield,"allied health professions, dentistry, nursing and pharmacy",11,20,80,0,0,33.2,9.638554216867469
+1583,university of sheffield,"allied health professions, dentistry, nursing and pharmacy",11,88.6,11.4,0,0,64.66,6.009897927621404
+1584,university of sheffield,"public health, health services and primary care",8,95,5,0,0,74.32,5.314854682454253
+1585,university of sheffield,clinical medicine,7,74.3,25.7,0,0,63.95,5.853010164190773
+1586,university of sheffield,"geography, environmental studies and archaeology",6,40,60,0,0,17.6,19.318181818181817
+1587,university of sheffield,"geography, environmental studies and archaeology",6,36.7,63.3,0,0,24.9,13.522088353413656
+1588,university of sheffield,biological sciences,5,52,48,0,0,44.9,7.839643652561247
+1589,university of sheffield,modern languages and linguistics,5,50,50,0,0,33.2,10.542168674698795
+1590,university of sheffield,modern languages and linguistics,5,80,20,0,0,7.0,54.285714285714285
+1591,university of sheffield,"aeronautical, mechanical, chemical and manufacturing engineering",5,26,74,0,0,44.6,7.309417040358744
+1592,university of sheffield,"aeronautical, mechanical, chemical and manufacturing engineering",5,30,50,20,0,30.0,10.333333333333334
+1593,university of sheffield,"electrical and electronic engineering, metallurgy and materials",5,50,50,0,0,34.8,10.057471264367816
+1594,university of sheffield,"electrical and electronic engineering, metallurgy and materials",5,0,80,20,0,34.8,8.045977011494253
+1595,university of sheffield,english language and literature,5,52,48,0,0,39.05,9.014084507042254
+1596,university of sheffield,civil and construction engineering,4,20,80,0,0,34.8,9.195402298850576
+1597,university of sheffield,computer science and informatics,4,70,30,0,0,30.5,12.131147540983607
+1598,university of sheffield,"architecture, built environment and planning",4,70,30,0,0,34.0,10.882352941176471
+1599,university of sheffield,business and management studies,4,60,40,0,0,34.5,10.434782608695652
+1600,university of sheffield,"psychology, psychiatry and neuroscience",4,60,40,0,0,34.45,10.449927431059505
+1601,university of sheffield,history,4,60,20,20,0,27.45,12.386156648451731
+1602,university of sheffield,politics and international studies,3,73.3,26.7,0,0,18.0,20.738888888888887
+1603,university of sheffield,philosophy,3,23.3,50,26.7,0,19.2,15.447916666666666
+1604,university of sheffield,social work and social policy,3,10,90,0,0,17.8,17.41573033707865
+1605,university of sheffield,law,3,26.7,60,13.3,0,24.4,12.84426229508197
+1606,university of sheffield,"communication, cultural and media studies, library and information management",3,60,40,0,0,22.3,16.143497757847534
+1607,university of sheffield,earth systems and environmental sciences,3,26.7,60,13.3,0,23.9,13.112970711297073
+1608,university of sheffield,mathematical sciences,3,40,60,0,0,34.0,10.0
+1609,university of sheffield,"music, drama, dance and performing arts",2,60,40,0,0,12.42,28.985507246376812
+1610,university of sheffield,area studies,2,0,70,30,0,14.0,19.285714285714285
+1611,university of sheffield,general engineering,2,36.7,50,13.3,0,21.8,14.834862385321102
+1612,university of sheffield,economics and econometrics,2,40,20,0,0,14.9,14.765100671140939
+1613,university of sheffield,theology and religious studies,2,10,50,40,0,4.0,67.5
+1614,university of sheffield,education,2,100,0,0,0,14.5,27.586206896551722
+1615,university of sheffield,physics,2,10,60,30,0,30.0,9.333333333333334
+1616,university of south wales,"music, drama, dance and performing arts",3,23.3,76.7,0,0,16.0,20.20625
+1617,university of south wales,"psychology, psychiatry and neuroscience",2,0,0,60,0,9.2,13.043478260869566
+1618,university of south wales,business and management studies,2,-,-,-,-,3.0,0.0
+1619,university of south wales,"allied health professions, dentistry, nursing and pharmacy",2,0,40,60,0,7.4,32.43243243243243
+1620,university of south wales,"sport and exercise sciences, leisure and tourism",2,0,10,50,40,7.0,24.285714285714285
+1621,university of south wales,history,2,0,60,40,0,7.8,33.333333333333336
+1622,university of south wales,computer science and informatics,2,20,20,60,0,13.5,19.25925925925926
+1623,university of south wales,social work and social policy,2,80,10,10,0,14.4,25.694444444444443
+1624,university of south wales,general engineering,2,0,0,60,40,14.5,11.03448275862069
+1625,university of south wales,english language and literature,2,0,90,10,0,8.0,36.25
+1626,university of south wales,mathematical sciences,2,0,60,0,40,9.2,23.91304347826087
+1627,university of southampton,general engineering,20,54,36,10,0,192.23,1.7895229672787807
+1628,university of southampton,clinical medicine,15,61.3,33.4,5.3,0,143.39,2.4827393821047496
+1629,university of southampton,"electrical and electronic engineering, metallurgy and materials",9,54.4,32.3,13.3,0,84.25,4.0486646884273
+1630,university of southampton,"geography, environmental studies and archaeology",7,50,50,0,0,20.9,16.74641148325359
+1631,university of southampton,"geography, environmental studies and archaeology",7,30,50,20,0,32.0,9.6875
+1632,university of southampton,earth systems and environmental sciences,7,65,25,0,0,68.62,4.881958612649373
+1633,university of southampton,mathematical sciences,6,30,70,0,0,54.8,6.021897810218978
+1634,university of southampton,computer science and informatics,5,84,16,0,0,44.2,8.687782805429864
+1635,university of southampton,social work and social policy,5,34,34,24,8,41.0,7.170731707317073
+1636,university of southampton,"allied health professions, dentistry, nursing and pharmacy",4,100,0,0,0,34.5,11.594202898550725
+1637,university of southampton,business and management studies,4,40,60,0,0,34.4,9.883720930232558
+1638,university of southampton,history,4,60,30,10,0,30.7,11.400651465798045
+1639,university of southampton,"psychology, psychiatry and neuroscience",4,80,20,0,0,33.2,11.445783132530119
+1640,university of southampton,physics,4,60,40,0,0,34.8,10.344827586206897
+1641,university of southampton,"music, drama, dance and performing arts",3,100,0,0,0,22.53,17.75410563692854
+1642,university of southampton,law,3,0,23.3,76.7,0,22.5,9.924444444444445
+1643,university of southampton,modern languages and linguistics,3,50,50,0,0,24.5,14.285714285714286
+1644,university of southampton,education,3,76.7,23.3,0,0,22.0,17.122727272727275
+1645,university of southampton,economics and econometrics,3,10,50,40,0,21.8,12.38532110091743
+1646,university of southampton,english language and literature,3,23.3,50,26.7,0,24.8,11.959677419354836
+1647,university of southampton,philosophy,2,0,30,70,0,12.0,19.166666666666668
+1648,university of southampton,politics and international studies,2,0,60,40,0,13.54,19.202363367799116
+1649,university of southampton,"public health, health services and primary care",2,50,50,0,0,10.5,33.333333333333336
+1650,university of southampton,chemistry,2,50,42,8,0,44.8,7.633928571428572
+1651,university of southampton,"art and design: history, practice and theory",2,0,70,30,0,10.2,26.47058823529412
+1652,university of southampton,biological sciences,1,40,60,0,0,34.8,9.770114942528737
+1653,university of st andrews,biological sciences,6,90,10,0,0,50.45,7.730426164519326
+1654,university of st andrews,history,4,58,42,0,0,37.13,9.64179908429841
+1655,university of st andrews,english language and literature,4,90,10,0,0,28.0,13.928571428571429
+1656,university of st andrews,"geography, environmental studies and archaeology",4,76,24,0,0,36.5,10.301369863013699
+1657,university of st andrews,mathematical sciences,4,40,50,10,0,30.6,10.784313725490195
+1658,university of st andrews,modern languages and linguistics,4,0,90,10,0,32.75,8.854961832061068
+1659,university of st andrews,business and management studies,3,73.3,26.7,0,0,22.2,16.815315315315313
+1660,university of st andrews,philosophy,3,53.3,36.7,10,0,22.59,15.196989818503763
+1661,university of st andrews,"psychology, psychiatry and neuroscience",3,40,60,0,0,30.2,11.258278145695364
+1662,university of st andrews,economics and econometrics,3,0,50,50,0,20.5,12.195121951219512
+1663,university of st andrews,clinical medicine,3,0,53.3,20,26.7,16.0,14.162499999999998
+1664,university of st andrews,"music, drama, dance and performing arts",2,20,80,0,0,7.68,41.66666666666667
+1665,university of st andrews,anthropology and development studies,2,0,100,0,0,14.66,20.463847203274216
+1666,university of st andrews,classics,2,50,50,0,0,11.7,29.914529914529915
+1667,university of st andrews,"art and design: history, practice and theory",2,20,80,0,0,12.7,25.19685039370079
+1668,university of st andrews,politics and international studies,2,50,40,10,0,32.83,10.356381358513556
+1669,university of st andrews,theology and religious studies,2,40,10,50,0,14.0,20.714285714285715
+1670,university of st andrews,computer science and informatics,1,13.3,73.4,13.3,0,24.0,12.500000000000002
+1671,university of stirling,business and management studies,5,60,32,8,0,42.8,8.224299065420562
+1672,university of stirling,"agriculture, veterinary and food science",4,90,10,0,0,28.0,13.928571428571429
+1673,university of stirling,social work and social policy,4,40,60,0,0,32.97,10.312405216863816
+1674,university of stirling,"sport and exercise sciences, leisure and tourism",3,0,36.7,36.6,26.7,22.4,9.375
+1675,university of stirling,"geography, environmental studies and archaeology",3,10,90,0,0,21.3,14.553990610328638
+1676,university of stirling,"allied health professions, dentistry, nursing and pharmacy",3,53.3,20,26.7,0,24.4,13.385245901639344
+1677,university of stirling,english language and literature,3,0,86.7,13.3,0,24.0,11.945833333333335
+1678,university of stirling,history,2,40,60,0,0,13.0,26.153846153846153
+1679,university of stirling,"communication, cultural and media studies, library and information management",2,40,60,0,0,14.7,23.129251700680275
+1680,university of stirling,education,2,20,80,0,0,14.0,22.857142857142858
+1681,university of stirling,"psychology, psychiatry and neuroscience",2,100,0,0,0,14.0,28.571428571428573
+1682,university of stirling,computer science and informatics,2,10,50,40,0,14.4,18.75
+1683,university of stirling,earth systems and environmental sciences,2,20,60,20,0,14.6,20.547945205479454
+1684,university of stirling,philosophy,2,20,50,30,0,12.4,23.387096774193548
+1685,university of stirling,law,2,0,40,60,0,7.91,30.34134007585335
+1686,university of strathclyde,business and management studies,8,80,15,5,0,73.35,5.112474437627812
+1687,university of strathclyde,"allied health professions, dentistry, nursing and pharmacy",8,75,25,0,0,74.3,5.047106325706595
+1688,university of strathclyde,"aeronautical, mechanical, chemical and manufacturing engineering",8,30,50,20,0,67.2,4.613095238095238
+1689,university of strathclyde,"electrical and electronic engineering, metallurgy and materials",7,32.9,55.7,11.4,0,59.2,5.430743243243244
+1690,university of strathclyde,physics,4,80,20,0,0,27.0,14.074074074074074
+1691,university of strathclyde,mathematical sciences,4,30,40,20,10,32.9,8.814589665653497
+1692,university of strathclyde,history,3,26.7,60,13.3,0,22.2,14.11711711711712
+1693,university of strathclyde,law,3,0,90,10,0,19.67,14.743263853584137
+1694,university of strathclyde,computer science and informatics,3,13.3,13.4,73.3,0,20.2,11.881188118811881
+1695,university of strathclyde,social work and social policy,3,63.3,36.7,0,0,15.7,23.140127388535035
+1696,university of strathclyde,politics and international studies,3,60,40,0,0,19.4,18.556701030927837
+1697,university of strathclyde,civil and construction engineering,3,13.3,60,26.7,0,20.2,14.188118811881187
+1698,university of strathclyde,education,3,40,50,10,0,24.6,13.414634146341463
+1699,university of strathclyde,english language and literature,3,40,33.3,13.4,13.3,20.2,14.851485148514852
+1700,university of strathclyde,"psychology, psychiatry and neuroscience",2,80,20,0,0,12.0,31.666666666666668
+1701,university of strathclyde,"architecture, built environment and planning",2,40,0,60,0,14.5,19.310344827586206
+1702,university of sunderland,education,3,26.7,0,36.6,10,21.1,9.004739336492891
+1703,university of sunderland,"allied health professions, dentistry, nursing and pharmacy",3,0,50,50,0,24.6,10.16260162601626
+1704,university of sunderland,history,2,0,0,30,70,4.0,32.5
+1705,university of surrey,"electrical and electronic engineering, metallurgy and materials",9,17.8,82.2,0,0,83.14,3.8224681260524416
+1706,university of surrey,"allied health professions, dentistry, nursing and pharmacy",7,65.7,22.9,11.4,0,64.6,5.48452012383901
+1707,university of surrey,business and management studies,5,0,34,50,16,41.65,5.234093637454982
+1708,university of surrey,general engineering,5,33.3,56.7,10,0,54.95,5.883530482256597
+1709,university of surrey,physics,4,40,50,10,0,27.5,12.0
+1710,university of surrey,mathematical sciences,4,0,40,60,0,28.42,8.444757213230119
+1711,university of surrey,"psychology, psychiatry and neuroscience",3,26.7,20,53.3,0,20.0,13.669999999999998
+1712,university of surrey,"music, drama, dance and performing arts",3,23.3,76.7,0,0,21.5,15.037209302325582
+1713,university of surrey,computer science and informatics,3,20,26.7,53.3,0,19.4,13.747422680412372
+1714,university of surrey,economics and econometrics,3,0,86.7,13.3,0,20.65,13.883777239709445
+1715,university of surrey,sociology,3,26.7,0,60,13.3,19.2,12.505208333333336
+1716,university of surrey,english language and literature,3,53.3,33.4,13.3,0,23.95,14.19624217118998
+1717,university of surrey,law,2,0,40,40,20,8.0,27.5
+1718,university of surrey,"sport and exercise sciences, leisure and tourism",2,60,40,0,0,14.4,25.0
+1719,university of surrey,politics and international studies,2,0,0,40,60,11.4,12.280701754385964
+1720,university of sussex,biological sciences,6,43.3,43.4,13.3,0,47.61,6.931316950220542
+1721,university of sussex,"psychology, psychiatry and neuroscience",5,84,16,0,0,41.4,9.27536231884058
+1722,university of sussex,business and management studies,5,24,60,16,0,43.95,7.007963594994311
+1723,university of sussex,english language and literature,4,20,80,0,0,34.6,9.248554913294797
+1724,university of sussex,law,4,20,40,20,20,31.0,8.387096774193548
+1725,university of sussex,"communication, cultural and media studies, library and information management",4,60,40,0,0,25.5,14.117647058823529
+1726,university of sussex,history,3,26.7,60,13.3,0,20.0,15.670000000000002
+1727,university of sussex,politics and international studies,3,50,50,0,0,21.0,16.666666666666668
+1728,university of sussex,sociology,3,20,80,0,0,16.3,19.631901840490798
+1729,university of sussex,economics and econometrics,3,36.7,50,13.3,0,17.4,18.586206896551726
+1730,university of sussex,anthropology and development studies,3,50,50,0,0,18.5,18.91891891891892
+1731,university of sussex,"geography, environmental studies and archaeology",3,80,10,10,0,20.7,17.8743961352657
+1732,university of sussex,chemistry,3,0,13.3,86.7,0,16.8,12.696428571428571
+1733,university of sussex,education,3,26.7,50,23.3,0,16.1,18.84472049689441
+1734,university of sussex,physics,3,13.3,13.4,73.3,0,24.72,9.708737864077671
+1735,university of sussex,philosophy,2,0,80,20,0,10.5,26.666666666666668
+1736,university of sussex,"art and design: history, practice and theory",2,0,20,80,0,11.5,19.130434782608695
+1737,university of sussex,area studies,2,0,60,40,0,13.0,20.0
+1738,university of sussex,social work and social policy,2,40,60,0,0,12.4,27.419354838709676
+1739,university of sussex,computer science and informatics,2,10,50,40,0,14.6,18.493150684931507
+1740,university of sussex,"music, drama, dance and performing arts",2,10,90,0,0,4.2,73.80952380952381
+1741,university of sussex,general engineering,2,20,70,10,0,14.0,22.142857142857142
+1742,university of sussex,mathematical sciences,2,0,60,40,0,20.0,13.0
+1743,university of teesside,general engineering,1,,,,,,
+1744,university of ulster,"allied health professions, dentistry, nursing and pharmacy",12,20,80,0,0,32.15,9.953343701399689
+1745,university of ulster,"allied health professions, dentistry, nursing and pharmacy",12,60,35,5,0,74.1,4.790823211875844
+1746,university of ulster,computer science and informatics,5,18,34,32,16,39.6,6.4141414141414135
+1747,university of ulster,"architecture, built environment and planning",5,58,42,0,0,38.0,9.421052631578947
+1748,university of ulster,modern languages and linguistics,4,60,40,0,0,10.6,33.9622641509434
+1749,university of ulster,modern languages and linguistics,4,0,70,30,0,12.4,21.774193548387096
+1750,university of ulster,history,3,13.3,63.4,23.3,0,16.4,17.682926829268293
+1751,university of ulster,law,3,100,0,0,0,18.8,21.27659574468085
+1752,university of ulster,business and management studies,3,66.7,33.3,0,0,22.4,16.370535714285715
+1753,university of ulster,"communication, cultural and media studies, library and information management",3,40,60,0,0,16.4,20.731707317073173
+1754,university of ulster,"psychology, psychiatry and neuroscience",3,26.7,46.6,0,26.7,22.0,12.422727272727274
+1755,university of ulster,"art and design: history, practice and theory",3,73.3,0,26.7,0,24.8,13.975806451612902
+1756,university of ulster,earth systems and environmental sciences,3,0,63.3,36.7,0,18.4,14.30978260869565
+1757,university of ulster,social work and social policy,3,66.7,33.3,0,0,21.2,17.297169811320753
+1758,university of ulster,education,2,80,20,0,0,12.2,31.14754098360656
+1759,university of ulster,"music, drama, dance and performing arts",2,90,10,0,0,13.4,29.104477611940297
+1760,university of ulster,politics and international studies,2,10,50,40,0,10.75,25.11627906976744
+1761,university of ulster,english language and literature,2,0,60,40,0,12.9,20.155038759689923
+1762,university of wales,modern languages and linguistics,2,40,50,10,0,12.35,26.720647773279353
+1763,university of wales trinity saint david,"geography, environmental studies and archaeology",2,0,20,50,30,9.8,19.387755102040813
+1764,university of wales trinity saint david,classics,2,0,50,10,0,9.43,18.027571580063626
+1765,university of wales trinity saint david,general engineering,2,0,0,40,60,5.0,28.0
+1766,university of wales trinity saint david,theology and religious studies,1,50,50,0,0,8.2,42.6829268292683
+1767,university of warwick,mathematical sciences,8,42.7,57.3,0,0,104.1,3.292026897214217
+1768,university of warwick,business and management studies,6,21.8,45.5,32.7,0,104.4,2.7691570881226055
+1769,university of warwick,politics and international studies,6,56.7,36.6,6.7,0,48.54,7.210548001648125
+1770,university of warwick,biological sciences,5,16,68,16,0,44.88,6.684491978609625
+1771,university of warwick,english language and literature,5,68,32,0,0,37.42,9.834313201496526
+1772,university of warwick,history,5,48,44,8,0,39.0,8.717948717948717
+1773,university of warwick,economics and econometrics,5,60,40,0,0,41.6,8.653846153846153
+1774,university of warwick,"music, drama, dance and performing arts",4,50,50,0,0,27.4,12.773722627737227
+1775,university of warwick,clinical medicine,4,40,40,20,0,32.35,9.891808346213292
+1776,university of warwick,law,4,40,50,10,0,31.0,10.64516129032258
+1777,university of warwick,education,4,40,50,10,0,34.57,9.545849002024877
+1778,university of warwick,modern languages and linguistics,4,20,60,10,10,34.1,8.504398826979472
+1779,university of warwick,sociology,4,10,50,30,10,34.6,7.514450867052023
+1780,university of warwick,physics,4,30,50,20,0,54.6,5.677655677655678
+1781,university of warwick,general engineering,3,52,44,4,0,94.75,3.6728232189973613
+1782,university of warwick,philosophy,3,10,63.3,26.7,0,19.0,14.910526315789472
+1783,university of warwick,chemistry,3,30,70,0,0,34.8,9.482758620689657
+1784,university of warwick,"art and design: history, practice and theory",2,20,60,20,0,11.0,27.272727272727273
+1785,university of warwick,"agriculture, veterinary and food science",2,100,0,0,0,12.6,31.746031746031747
+1786,university of warwick,classics,2,40,60,0,0,13.9,24.46043165467626
+1787,university of warwick,"psychology, psychiatry and neuroscience",1,46.7,53.3,0,0,20.9,16.588516746411482
+1788,university of warwick and liverpool school of tropical medicine,"public health, health services and primary care",4,,,,,,
+1789,university of west london,"music, drama, dance and performing arts",2,,,,,,
+1790,university of west london,computer science and informatics,2,,,,,,
+1791,university of west london,"communication, cultural and media studies, library and information management",2,,,,,,
+1792,university of west london,education,2,,,,,,
+1793,university of west london,"allied health professions, dentistry, nursing and pharmacy",2,,,,,,
+1794,university of west of england,"allied health professions, dentistry, nursing and pharmacy",6,,,,,,
+1795,university of west of england,"architecture, built environment and planning",4,,,,,,
+1796,university of west of england,"communication, cultural and media studies, library and information management",3,,,,,,
+1797,university of west of england,"art and design: history, practice and theory",3,,,,,,
+1798,university of west of england,business and management studies,3,,,,,,
+1799,university of west of england,history,2,,,,,,
+1800,university of west of england,modern languages and linguistics,2,,,,,,
+1801,university of west of england,education,2,,,,,,
+1802,university of west of england,philosophy,2,,,,,,
+1803,university of west of england,"geography, environmental studies and archaeology",2,,,,,,
+1804,university of west of england,politics and international studies,2,,,,,,
+1805,university of west of england,social work and social policy,2,,,,,,
+1806,university of west of england,law,1,,,,,,
+1807,university of west of england,computer science and informatics,1,,,,,,
+1808,university of west of england,general engineering,1,,,,,,
+1809,university of west of england,english language and literature,1,,,,,,
+1810,university of west of england bristol,social work and social policy,1,,,,,,
+1811,university of west of england bristol,computer science and informatics,1,,,,,,
+1812,university of west of england bristol,law,1,,,,,,
+1813,university of west of england bristol,general engineering,1,,,,,,
+1814,university of west of england bristol,english language and literature,1,,,,,,
+1815,university of west of scotland,social work and social policy,3,,,,,,
+1816,university of west of scotland,general engineering,2,,,,,,
+1817,university of west of scotland,"communication, cultural and media studies, library and information management",2,,,,,,
+1818,university of west of scotland,education,2,,,,,,
+1819,university of west of scotland,"allied health professions, dentistry, nursing and pharmacy",2,,,,,,
+1820,university of west of scotland,"sport and exercise sciences, leisure and tourism",2,,,,,,
+1821,university of west of scotland,computer science and informatics,2,,,,,,
+1822,university of west of scotland,"electrical and electronic engineering, metallurgy and materials",2,,,,,,
+1823,university of west of scotland,business and management studies,2,,,,,,
+1824,university of westminster,"architecture, built environment and planning",4,40,50,10,0,25.37,13.007489160425699
+1825,university of westminster,"communication, cultural and media studies, library and information management",3,86.7,13.3,0,0,17.8,21.724719101123597
+1826,university of westminster,business and management studies,3,13.3,26.7,36.7,23.3,21.2,10.849056603773587
+1827,university of westminster,law,3,0,40,33.3,26.7,18.9,11.285714285714286
+1828,university of westminster,computer science and informatics,3,0,13.3,73.4,13.3,19.65,10.178117048346058
+1829,university of westminster,"art and design: history, practice and theory",3,63.3,36.7,0,0,24.25,14.981443298969072
+1830,university of westminster,"allied health professions, dentistry, nursing and pharmacy",3,13.3,86.7,0,0,24.8,12.633064516129032
+1831,university of westminster,english language and literature,3,50,36.7,13.3,0,17.7,19.022598870056502
+1832,university of westminster,history,2,0,40,30,30,5.0,42.0
+1833,university of westminster,area studies,2,0,40,60,0,4.75,50.526315789473685
+1834,university of westminster,modern languages and linguistics,2,0,40,20,0,3.9,41.02564102564103
+1835,university of westminster,"psychology, psychiatry and neuroscience",2,0,100,0,0,12.5,24.0
+1836,university of westminster,politics and international studies,2,0,70,30,0,14.3,18.88111888111888
+1837,university of winchester,history,2,0,60,30,10,11.0,22.727272727272727
+1838,university of winchester,"communication, cultural and media studies, library and information management",2,0,80,20,0,12.75,21.96078431372549
+1839,university of winchester,"geography, environmental studies and archaeology",2,0,0,70,30,5.4,31.48148148148148
+1840,university of winchester,education,2,0,40,60,0,7.13,33.66058906030855
+1841,university of winchester,theology and religious studies,2,20,70,10,0,8.4,36.904761904761905
+1842,university of winchester,"psychology, psychiatry and neuroscience",2,0,20,0,80,8.5,16.470588235294116
+1843,university of winchester,"music, drama, dance and performing arts",2,0,80,20,0,12.4,22.58064516129032
+1844,university of winchester,sociology,2,0,0,0,100,7.0,14.285714285714286
+1845,university of wolverhampton,"allied health professions, dentistry, nursing and pharmacy",4,0,10,60,20,31.3,5.431309904153355
+1846,university of wolverhampton,"art and design: history, practice and theory",4,0,40,10,30,25.7,6.614785992217899
+1847,university of wolverhampton,history,2,0,100,0,0,13.1,22.900763358778626
+1848,university of wolverhampton,"communication, cultural and media studies, library and information management",2,60,40,0,0,7.0,51.42857142857143
+1849,university of wolverhampton,area studies,2,0,20,30,30,7.0,21.428571428571427
+1850,university of wolverhampton,law,2,0,0,40,20,12.0,8.333333333333334
+1851,university of wolverhampton,modern languages and linguistics,2,0,80,20,0,10.8,25.925925925925924
+1852,university of wolverhampton,"sport and exercise sciences, leisure and tourism",2,10,70,20,0,9.0,32.22222222222222
+1853,university of wolverhampton,education,2,0,40,60,0,9.2,26.086956521739133
+1854,university of wolverhampton,"architecture, built environment and planning",2,0,0,90,10,13.5,14.074074074074074
+1855,university of wolverhampton,english language and literature,2,0,0,60,0,7.95,15.09433962264151
+1856,university of wolverhampton,"aeronautical, mechanical, chemical and manufacturing engineering",2,0,10,90,0,12.0,17.5
+1857,university of worcester,history,2,0,70,30,0,5.0,54.0
+1858,university of worcester,"sport and exercise sciences, leisure and tourism",2,20,20,60,0,14.0,18.571428571428573
+1859,university of worcester,"allied health professions, dentistry, nursing and pharmacy",2,0,30,30,0,11.1,13.513513513513514
+1860,university of worcester,"geography, environmental studies and archaeology",2,0,20,80,0,11.0,20.0
+1861,university of worcester,education,2,0,40,10,50,14.3,13.286713286713287
+1862,university of worcester,"psychology, psychiatry and neuroscience",2,0,40,60,0,10.4,23.076923076923077
+1863,university of worcester,biological sciences,2,0,80,20,0,12.8,21.875
+1864,university of worcester,"music, drama, dance and performing arts",2,0,20,40,0,4.4,31.818181818181817
+1865,university of worcester,"art and design: history, practice and theory",2,0,40,60,0,5.3,45.28301886792453
+1866,university of worcester,business and management studies,2,0,10,70,20,8.7,21.839080459770116
+1867,university of worcester,english language and literature,2,0,100,0,0,7.5,40.0
+1868,university of york,"public health, health services and primary care",6,80,20,0,0,52.74,7.20515737580584
+1869,university of york,english language and literature,5,68,24,8,0,36.01,9.997222993612885
+1870,university of york,history,4,50,50,0,0,34.5,10.144927536231885
+1871,university of york,"music, drama, dance and performing arts",4,20,70,10,0,13.0,23.846153846153847
+1872,university of york,"music, drama, dance and performing arts",4,0,40,60,0,14.5,16.551724137931036
+1873,university of york,economics and econometrics,4,40,50,10,0,28.07,11.75632347702173
+1874,university of york,computer science and informatics,4,80,20,0,0,34.8,10.919540229885058
+1875,university of york,social work and social policy,4,100,0,0,0,33.6,11.904761904761905
+1876,university of york,chemistry,4,40,60,0,0,47.06,7.224819379515512
+1877,university of york,physics,4,40,20,20,20,34.33,8.15613166326828
+1878,university of york,mathematical sciences,4,20,60,20,0,30.5,9.836065573770492
+1879,university of york,biological sciences,3,92,8,0,0,44.37,8.834798287130944
+1880,university of york,"electrical and electronic engineering, metallurgy and materials",3,0,100,0,0,22.3,13.452914798206278
+1881,university of york,business and management studies,3,50,23.3,26.7,0,22.7,14.242290748898677
+1882,university of york,"art and design: history, practice and theory",3,86.7,13.3,0,0,18.95,20.40633245382586
+1883,university of york,earth systems and environmental sciences,3,40,33.3,26.7,0,24.1,12.999999999999998
+1884,university of york,philosophy,3,0,26.7,73.3,0,18.3,12.387978142076502
+1885,university of york,"geography, environmental studies and archaeology",3,63.3,36.7,0,0,18.78,19.34504792332268
+1886,university of york,politics and international studies,3,60,26.7,13.3,0,23.0,15.073913043478262
+1887,university of york,education,3,73.3,26.7,0,0,22.3,16.739910313901344
+1888,university of york,sociology,3,100,0,0,0,20.0,20.0
+1889,university of york,"psychology, psychiatry and neuroscience",2,46.7,53.3,0,0,24.9,13.923694779116467
+1890,university of york,law,2,80,20,0,0,10.0,38.0
+1891,university of york,modern languages and linguistics,1,60,40,0,0,14.08,25.568181818181817
+1892,urham university,biological sciences,1,,,,,,
+1893,wales institute for research in art design,"art and design: history, practice and theory",3,,,,,,
+1894,warwick university,business and management studies,4,,,,,,
+1895,westchem,chemistry,7,,,,,,
+1896,writtle college,"art and design: history, practice and theory",2,0,0,0,40,3.6,11.11111111111111
+1897,writtle college,"agriculture, veterinary and food science",2,0,0,0,40,8.8,4.545454545454545
+1898,york st john university,"psychology, psychiatry and neuroscience",2,40,60,0,0,5.0,68.0
+1899,york st john university,"communication, cultural and media studies, library and information management",2,0,20,40,40,6.0,30.0
+1900,york st john university,theology and religious studies,2,0,10,70,20,7.0,27.142857142857142
+1901,york st john university,education,2,0,0,80,10,9.4,18.085106382978722
+1902,york st john university,"allied health professions, dentistry, nursing and pharmacy",2,0,80,0,20,5.5,47.27272727272727
+1903,york st john university,"sport and exercise sciences, leisure and tourism",2,0,0,40,60,7.0,20.0
+1904,york st john university,"music, drama, dance and performing arts",2,40,20,40,0,10.2,29.411764705882355
+1905,york st john university,business and management studies,2,0,0,10,10,6.5,4.615384615384615
+1906,york st john university,english language and literature,2,0,50,10,40,11.6,18.10344827586207
